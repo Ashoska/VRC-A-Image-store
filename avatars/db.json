@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":455,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":462,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","platforms":[],"added":1787029720687},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","platforms":[],"added":1787029814118},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","platforms":[],"added":1787029703322},
@@ -13,7 +13,6 @@
 "file_a881212b-3a25-4e3d-8660-892ee29712bd":{"id":"avtr_be665006-c1b7-459c-9f61-8ff7fd2191c8","name":"BlackandWhite Fox","author":"justper","platforms":[],"added":1787029649187},
 "file_f747192f-a05b-48a4-90a8-17b68ef4f898":{"id":"avtr_110518fd-5e44-4e40-b934-348c89ead8ed","name":"Paper Mario （TTYD）","author":"Engineer Gamin","platforms":[],"added":1787029790506},
 "file_72c2dc0d-0dd3-4ea6-ab6c-960f62717d16":{"id":"avtr_9923f9ed-17e1-4476-86b9-dbc01d6e543f","name":"Cranus","author":"Goobsly","platforms":[],"added":1787029680360},
-"file_e4c7935e-97c4-495e-82d0-fc1fab9e24cc":{"id":"avtr_776bee88-5ee1-4a48-ae85-87ee9524fd29","name":"Ashoska's Kipfel","author":"Ashoska","platforms":["Quest","PC","iOS"],"added":1787029545155},
 "file_fcef5fff-c015-4081-b684-ec2f4a942f37":{"id":"avtr_99e76ab5-2113-4172-ba3b-26ab9f16be9f","name":"Plankton","author":"Buzz Lіghtyeаr","platforms":[],"added":1787029654472},
 "file_4fd58649-fd35-4d86-9907-7b0242ed9ad5":{"id":"avtr_73672f1a-f43b-4510-bac4-86603c56a3d9","name":"Little Bon","author":"ʟᴜɴø","platforms":[],"added":1787029739092},
 "file_9cced0e0-1ce2-4335-b15c-95b67720bc5f":{"id":"avtr_e960ce62-993d-42e7-9b22-0e9b57b07faf","name":"Space Racer","author":"S-P-A","platforms":[],"added":1787029657653},
@@ -453,5 +452,13 @@
 "file_116416a9-f175-4c7c-9070-1e6c335622f1":{"id":"avtr_3f569570-9a19-4fed-b269-38ee69d5cde4","name":"MamehinatAkyo","author":"葱 potipoti93","authorId":"usr_25ad9167-d1e7-47f7-876e-bc47e52189f4","platforms":["PC","Quest","iOS"],"added":1787064299684},
 "file_d144d8db-5690-4520-b963-4587f91ce30e":{"id":"avtr_4e2f0cb0-b41e-447b-8855-bb93a976d974","name":"DEMO VER｜Dahlia By NoeliaVR","author":"NoeliaVR","authorId":"usr_931fbb98-b4a0-447b-94e8-5f00565e4336","platforms":["Quest","PC","iOS"],"added":1787064280703},
 "file_e96efddd-b500-4fba-b082-c59ce2cdee20":{"id":"avtr_1b0dc2ee-6faa-4740-826b-ad8a1989418f","name":"wren ǃǃ","author":"vendreadhead","authorId":"","platforms":[],"added":1787065056577,"checked":1787065056577},
-"file_8b04532e-3cf9-4f44-81ba-32df26fb3732":{"id":"avtr_ff8888ee-a5fd-4883-b2dd-b2f7fe74644e","name":"Iron Man Shotgun MK40 Armor Military Style","author":"KermQuest","authorId":"","platforms":[],"added":1787064984122,"checked":1787064984122}
+"file_8b04532e-3cf9-4f44-81ba-32df26fb3732":{"id":"avtr_ff8888ee-a5fd-4883-b2dd-b2f7fe74644e","name":"Iron Man Shotgun MK40 Armor Military Style","author":"KermQuest","authorId":"","platforms":[],"added":1787064984122,"checked":1787064984122},
+"file_da1edf46-4b50-4722-82d0-2f95798f2789":{"id":"avtr_2f3f7391-c65d-4e96-909d-105a54e391ca","name":"Joe Emoji （EmotiGuy ⁄ Picardia）","author":"OGChia","authorId":"","platforms":[],"added":1787066370621,"checked":1787066370621},
+"file_0afa4680-2252-48c9-a970-2a09c9ba28e6":{"id":"avtr_b9ea5cdb-53cc-45af-80e9-915a02ac2a8c","name":"Pigeon","author":"max84444","authorId":"","platforms":[],"added":1787066374354,"checked":1787066374354},
+"file_757ff700-0067-4b07-84b6-a0692ecc5725":{"id":"avtr_ad018b4b-d6cd-4262-a7fb-6bd5d8b827c1","name":"Barney","author":"Cwookie_26","authorId":"","platforms":[],"added":1787066378034,"checked":1787066378034},
+"file_5203b1c2-b480-4eeb-ab7c-34ac2fb47d27":{"id":"avtr_91dcd995-c199-40e7-b54f-df99a6088fd4","name":"LPoly Siffrin ［BETA］","author":"『Dr HER0BRINE』","authorId":"","platforms":[],"added":1787066352629,"checked":1787066352629},
+"file_d185507f-0465-4eaa-a28c-965235176bae":{"id":"avtr_baf57418-7e4d-4eba-9501-860e91ba2763","name":"Harmony （Splatoon 3）","author":"SBee","authorId":"","platforms":[],"added":1787066385691,"checked":1787066385691},
+"file_f529c856-96fd-4242-b940-1f928f1fd31c":{"id":"avtr_483b8634-aa9e-4000-b73a-dced21b6d359","name":"Eshay Mayu（Tam）","author":"KonskyVr","authorId":"","platforms":[],"added":1787066387333,"checked":1787066387333},
+"file_9f2d70a4-4f51-4533-b577-d23712c53400":{"id":"avtr_d701cb56-e72b-4b40-b803-53c2829ac3bb","name":"Redbeard","author":"Ezekiel˖","authorId":"","platforms":[],"added":1787066351062,"checked":1787066351062},
+"file_22aef3de-a799-45e7-b8f5-a00de44222a9":{"id":"avtr_5d34dcbf-29c2-418e-952c-c4e2d614f00a","name":"aDanza Cat Black","author":"Ezekiel˖","authorId":"","platforms":[],"added":1787066366020,"checked":1787066366020}
 }}
