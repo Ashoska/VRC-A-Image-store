@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1378,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1391,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1376,5 +1376,18 @@
 "file_450ace83-e90f-4284-9627-e6029e39e40d":{"id":"avtr_f2433da6-9d79-4b76-b550-c652e0795d83","name":"Jane Crocker","author":"ViewerMink","authorId":"","platforms":[],"added":1787092375969,"checked":1787092375969},
 "file_8f79923c-d63f-46bb-9cf3-ed42f40b7bf0":{"id":"avtr_5780ba43-30f9-4d9a-a859-8440e7a886f5","name":"Baby Fox","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092863233,"checked":1787092863233},
 "file_d25e021c-6173-43d3-9566-8c6aa8c0ca44":{"id":"avtr_8fa83077-34ac-4496-bfd9-6e4014c7dbf1","name":"Baby Sheep","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092818872,"checked":1787092818872},
-"file_6f40ebd2-ed8e-461b-acf8-00278e49ccf4":{"id":"avtr_9ea4bb76-d857-4890-a073-171809d9336c","name":"Baby Horse","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092882781,"checked":1787092882781}
+"file_6f40ebd2-ed8e-461b-acf8-00278e49ccf4":{"id":"avtr_9ea4bb76-d857-4890-a073-171809d9336c","name":"Baby Horse","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092882781,"checked":1787092882781},
+"file_54422bd9-ffad-4838-aa2e-f98d1e73183d":{"id":"avtr_61db2e5f-8e91-4377-97c9-fa58aa339328","name":"Anchovy","author":"cat123","authorId":"","platforms":[],"added":1787093860044,"checked":1787093860044},
+"file_dac35ff9-822d-4abd-9f06-8d5ebb910d7b":{"id":"avtr_54a75f30-dce2-44cc-be4c-c7340301c7e1","name":"HeartBreaker Origin","author":"Anzai~Inferno","authorId":"","platforms":[],"added":1787093958526,"checked":1787093958526},
+"file_d4a59b79-c9e5-468d-a4ec-91e2aa71e116":{"id":"avtr_48347e92-4325-49de-8577-d7e2ae44a0b8","name":"SillyCat","author":"·lite·","authorId":"","platforms":[],"added":1787093951921,"checked":1787093951921},
+"file_6ee6a955-f0e0-4791-a2be-7d03a4df8b60":{"id":"avtr_9c093a7e-a09c-414a-9e5f-42a7f8e40ccd","name":"Broken Spawn","author":"MimicMyth","authorId":"","platforms":[],"added":1787093779401,"checked":1787093779401},
+"file_6be000a1-fff2-46b6-9cf9-6b9b4fc02c73":{"id":"avtr_66387825-1cfc-45c2-af68-fd80fa3972d4","name":"FrostFang Basic","author":"Immortal_flame","authorId":"","platforms":[],"added":1787093966293,"checked":1787093966293},
+"file_3266dffe-03e7-4bf7-baa4-cf038caba1d3":{"id":"avtr_00388243-9d0c-4ec9-9b36-6e04cfe5d27e","name":"Jenny Belle","author":"DerpTrooper115","authorId":"","platforms":[],"added":1787093954538,"checked":1787093954538},
+"file_1438e6cc-5e8d-4fcd-88b7-49bc8e9dff6a":{"id":"avtr_4d000b35-825d-4548-a8e0-419e6b68d4cd","name":"Mike Ehrmantraut","author":"Troowie","authorId":"","platforms":[],"added":1787093950572,"checked":1787093950572},
+"file_23bfe2ef-5f4c-4661-82dd-734c3fd28bbd":{"id":"avtr_f2abf786-008f-4f18-91f0-23375287fb1b","name":"I Love Switches ｛Feds｝","author":"®ᴊᴀʜ®","authorId":"","platforms":[],"added":1787093858390,"checked":1787093858390},
+"file_f7ac3d84-0d4d-47c8-9e8d-5d60e9f2ae1c":{"id":"avtr_a0517caa-e580-44d5-9f69-3868adf645c7","name":"Uphvl lilbr0","author":"Determinist","authorId":"","platforms":[],"added":1787093876030,"checked":1787093876030},
+"file_8201fa3a-da70-4840-9d32-035a643eb214":{"id":"avtr_d6700233-ec6f-4df4-9f56-90c489d43155","name":"Braxilon Republican Army","author":"Mizaliy","authorId":"","platforms":[],"added":1787093961240,"checked":1787093961240},
+"file_8fb3604b-283e-424b-a5f7-682fdba90447":{"id":"avtr_d369df45-836f-47ae-9a0c-dbbf0e2ebafa","name":"Mexican Forces MW2","author":"qt villa","authorId":"","platforms":[],"added":1787093962891,"checked":1787093962891},
+"file_79a06e05-8b2e-4642-b36d-a8dd9e4c6035":{"id":"avtr_0c67ff4c-9944-4df9-9e94-9a020d9fa2ee","name":"Basic Phase 1 ＆ 2 Blackout Unit Clone","author":"~~Cheese~~","authorId":"","platforms":[],"added":1787093974709,"checked":1787093974709},
+"file_008ac9b8-bb9c-4474-918e-5b8584723157":{"id":"avtr_255a5cb9-6769-4a46-8631-4ca8e49ee436","name":"Gia","author":"sᴘʀᴋᴘʟɢ","authorId":"","platforms":[],"added":1787093863488,"checked":1787093863488}
 }}
