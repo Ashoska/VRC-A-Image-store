@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1322,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1341,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1320,5 +1320,24 @@
 "file_533f5399-1caa-4382-bd6b-823c15203af0":{"id":"avtr_87e73442-e951-4d50-820f-c75af9399ac7","name":"Monarch - Titanfall 2","author":"Capt Ramlethal","authorId":"","platforms":[],"added":1787089244757,"checked":1787089244757},
 "file_9c19d8ef-2132-404f-9795-6538659ad5a6":{"id":"avtr_6c936122-118c-482f-b845-6b7dcad9887d","name":"ps1 spidey","author":"Sekretsu","authorId":"","platforms":[],"added":1787089454970,"checked":1787089454970},
 "file_112a9abd-397b-4dfe-a914-f9d9878b65c8":{"id":"avtr_7a38476f-6242-4a1e-899d-63488f5e59e1","name":"Female Hold Guard","author":"Pyrᴏ","authorId":"","platforms":[],"added":1787089417071,"checked":1787089417071},
-"file_b0727fe5-7a58-4b61-bc3b-767979db13d2":{"id":"avtr_82ca6c13-3ec4-42e7-8de2-acea7de7f46c","name":"Yuuri","author":"ǃRaidenǃ","authorId":"","platforms":[],"added":1787089730386,"checked":1787089730386}
+"file_b0727fe5-7a58-4b61-bc3b-767979db13d2":{"id":"avtr_82ca6c13-3ec4-42e7-8de2-acea7de7f46c","name":"Yuuri","author":"ǃRaidenǃ","authorId":"","platforms":[],"added":1787089730386,"checked":1787089730386},
+"file_a99ddd53-849c-47a5-b93c-50919dcc8588":{"id":"avtr_7548cf4c-56b3-42cd-aca8-d995782365f3","name":"Leon S Kennedy （Re9）","author":"M1ghtBeEvan","authorId":"","platforms":[],"added":1787090274983,"checked":1787090274983},
+"file_a84b652a-9ff7-4e2e-ba43-3b8583398a4d":{"id":"avtr_e48b87cb-4e28-49c3-9209-b7af2c73bc87","name":"Trio","author":"はにょえ","authorId":"","platforms":[],"added":1787090017148,"checked":1787090017148},
+"file_107ca39e-80d4-4804-b75a-232a8d4cece6":{"id":"avtr_199578c3-ae73-468a-9a67-678fc03439f2","name":"Snuffy","author":"MonAmiral","authorId":"","platforms":[],"added":1787089882789,"checked":1787089882789},
+"file_36188c56-a6dc-42be-90f6-86491cc3dde1":{"id":"avtr_fc66cf7f-be4d-4915-9e5b-53e37bdad02b","name":"Legoshi The Wolf","author":"Light~Green","authorId":"","platforms":[],"added":1787090043550,"checked":1787090043550},
+"file_b575be2d-6a68-4b7e-ade0-dd0e6bd0966b":{"id":"avtr_f5afcabb-5fd5-4216-ae7c-a8edc6d67223","name":"Kawkaw - Deltarune Chapter 5","author":"The Puff is IN","authorId":"","platforms":[],"added":1787090060260,"checked":1787090060260},
+"file_cb0ffc6f-213d-4959-98cd-5a6a27347b0d":{"id":"avtr_6e1e397c-876f-4500-9966-efab4be6bd73","name":"VVSR Lil Durk （FREE VERSION）","author":"Ben Bluntx","authorId":"","platforms":[],"added":1787090276569,"checked":1787090276569},
+"file_921636e5-4f00-4772-b549-ec8f5482c31b":{"id":"avtr_7f9233d5-a0b2-4ecb-a103-9668012a65a5","name":"Rusty the wareWUFF （FT）","author":"SeDUCKtive","authorId":"","platforms":[],"added":1787089851066,"checked":1787089851066},
+"file_c910234b-01d2-4cd2-b7ac-010d7332342a":{"id":"avtr_7ff72af6-faa7-4431-9588-47dfa336c16d","name":"Michelangelo","author":"Aurusion","authorId":"","platforms":[],"added":1787089991716,"checked":1787089991716},
+"file_dcf1ccb2-3eec-4e92-bacc-768efa73ed2c":{"id":"avtr_1cf5d131-44a7-4190-a199-9de5c25887da","name":"Bane - Lego Batman˸ The Videogame","author":"SpöökyJühnsön","authorId":"","platforms":[],"added":1787090222805,"checked":1787090222805},
+"file_6f76850d-9f2d-4cbe-9e18-4ef1cc222a9f":{"id":"avtr_678fdcb6-d3d0-4406-8625-6b4b08849446","name":"Dead Kittysan","author":"Ｎｅｋｏｓａｎ","authorId":"","platforms":[],"added":1787089988000,"checked":1787089988000},
+"file_ac9ad7cf-74d8-49e8-bb97-bd83c53db048":{"id":"avtr_31a717a8-9462-4df3-a242-63b6e098ec5e","name":"THETA","author":"SilentNymph","authorId":"","platforms":[],"added":1787090187110,"checked":1787090187110},
+"file_178d0ffb-d58f-487c-909b-b126fe8aa822":{"id":"avtr_af7d1387-6607-4aab-bb5f-2ac85ca3b8c5","name":"Shygal （Quest）","author":"Ponettan","authorId":"","platforms":[],"added":1787089842972,"checked":1787089842972},
+"file_95f6aa70-eb70-40b7-9ec6-e70316e4baab":{"id":"avtr_623effc8-e170-4f01-b947-1aa19996e65a","name":"MakeAvatar Chibi Female （SD Anime style）","author":"Gugenka","authorId":"","platforms":[],"added":1787090041987,"checked":1787090041987},
+"file_395032ff-ebba-4c94-a9bd-85573a4ea5d8":{"id":"avtr_40bd54eb-7cdf-4afd-ba66-14e9274a2247","name":"Tripod Fish","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787089849562,"checked":1787089849562},
+"file_6ce1b08c-eba5-4c73-9a16-4d2414a00d14":{"id":"avtr_b3c1307e-0eee-478a-bc59-87f222d6bba2","name":"KURS by kokori3D - tan","author":"ਏਓ ｡ ﾟ","authorId":"","platforms":[],"added":1787090167621,"checked":1787090167621},
+"file_58ff8983-a494-4d20-8835-d234554aaec4":{"id":"avtr_0e61874d-5965-4130-847d-0d7e389f8973","name":"Teen Gohan Remastered","author":"ImmortalGryphon","authorId":"","platforms":[],"added":1787090174145,"checked":1787090174145},
+"file_6805882f-c3a3-4d10-9fb6-ca3f51b68245":{"id":"avtr_abd6fb03-bad2-4224-a0fc-7bdbc2ce79f2","name":"The Doom Slayer","author":"ItzB4C0NDude","authorId":"","platforms":[],"added":1787090035861,"checked":1787090035861},
+"file_0bf82ddb-e7c7-4685-a9dd-c5b03575f8b6":{"id":"avtr_e88cc201-4a1f-4da9-8b24-99a86ede46b2","name":"Monke （Gorilla Tag）","author":"｜ｋｏｄｙｆｏｓｔｅｒ０６０｜","authorId":"","platforms":[],"added":1787090058331,"checked":1787090058331},
+"file_86de1930-1277-4841-be7d-175f54b220ee":{"id":"avtr_9f618d28-69dc-4d77-8018-cd255c41ac38","name":"Abyss Demon Kittysan","author":"Demonic_Lament","authorId":"","platforms":[],"added":1787090354422,"checked":1787090354422}
 }}
