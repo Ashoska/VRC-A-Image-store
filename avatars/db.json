@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1375,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1378,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1373,5 +1373,8 @@
 "file_64a9ef31-0877-48ae-a31f-67c3946205a8":{"id":"avtr_84b4158d-1902-429f-864e-b507fe867d90","name":"WYB ｜ SE Soldier","author":"luxy․","authorId":"usr_19457779-5a78-4a57-ab40-b02eac12eda9","platforms":["Quest","PC","iOS"],"added":1787092625014,"checked":1787092625014},
 "file_69f4183c-0e77-48e8-896a-42ede7143374":{"id":"avtr_9ac18e08-7e14-4669-942c-5f7ae0577d20","name":"PatRick RTX","author":"Midnight_NOW","authorId":"","platforms":[],"added":1787092638419,"checked":1787092638419},
 "file_1adaf550-83b5-44f9-bc54-387ab9d3dbf1":{"id":"avtr_3649fa18-c8a1-4c1a-aced-9a7bdb272846","name":"Big Markiplier","author":"Rum Ham","authorId":"","platforms":[],"added":1787092503165,"checked":1787092503165},
-"file_450ace83-e90f-4284-9627-e6029e39e40d":{"id":"avtr_f2433da6-9d79-4b76-b550-c652e0795d83","name":"Jane Crocker","author":"ViewerMink","authorId":"","platforms":[],"added":1787092375969,"checked":1787092375969}
+"file_450ace83-e90f-4284-9627-e6029e39e40d":{"id":"avtr_f2433da6-9d79-4b76-b550-c652e0795d83","name":"Jane Crocker","author":"ViewerMink","authorId":"","platforms":[],"added":1787092375969,"checked":1787092375969},
+"file_8f79923c-d63f-46bb-9cf3-ed42f40b7bf0":{"id":"avtr_5780ba43-30f9-4d9a-a859-8440e7a886f5","name":"Baby Fox","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092863233,"checked":1787092863233},
+"file_d25e021c-6173-43d3-9566-8c6aa8c0ca44":{"id":"avtr_8fa83077-34ac-4496-bfd9-6e4014c7dbf1","name":"Baby Sheep","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092818872,"checked":1787092818872},
+"file_6f40ebd2-ed8e-461b-acf8-00278e49ccf4":{"id":"avtr_9ea4bb76-d857-4890-a073-171809d9336c","name":"Baby Horse","author":"Destiny_Awaits","authorId":"","platforms":[],"added":1787092882781,"checked":1787092882781}
 }}
