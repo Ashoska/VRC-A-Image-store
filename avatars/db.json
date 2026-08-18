@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1070,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1072,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1068,5 +1068,7 @@
 "file_d5c0e0f4-b7ad-46f6-8499-b7b0111ac7e3":{"id":"avtr_6b4aada1-0541-4500-8c60-f798094c5fc5","name":"Pizza Tower - Peppino Finger","author":"ItsLoBun234","authorId":"","platforms":[],"added":1787073454939,"checked":1787073454939},
 "file_4d3cc34e-15df-4eee-9bb4-368e4937531b":{"id":"avtr_0690f073-c52e-4a8a-8e49-98bcf607bdaa","name":"Abyssal Construct","author":"Sillurgy","authorId":"","platforms":[],"added":1787073848896,"checked":1787073848896},
 "file_241e44e4-67b5-4a93-9b4a-3c21d7eb2732":{"id":"avtr_fb85e6ce-49e3-423c-a7b8-1f6dc5e16a23","name":"Regnas - Optimized ＋ FT","author":"Zythoxic","authorId":"","platforms":[],"added":1787074040524,"checked":1787074040524},
-"file_ed09f4a7-d0af-4f05-90cb-d35292b1911a":{"id":"avtr_c4052426-24f4-4e1d-89b1-11905c926458","name":"emo lily cookie","author":"TameBeeZ","authorId":"","platforms":[],"added":1787074636024,"checked":1787074636024}
+"file_ed09f4a7-d0af-4f05-90cb-d35292b1911a":{"id":"avtr_c4052426-24f4-4e1d-89b1-11905c926458","name":"emo lily cookie","author":"TameBeeZ","authorId":"","platforms":[],"added":1787074636024,"checked":1787074636024},
+"file_3dc4d18b-e394-42b3-bdb8-9512435967d8":{"id":"avtr_483ba3e7-9d01-4212-8b6e-eee8c96aaf0e","name":"Marmot","author":"Prez","authorId":"","platforms":[],"added":1787075425729,"checked":1787075425729},
+"file_1bba5476-5524-4507-b39b-085499ca2ab0":{"id":"avtr_3a8054ee-1c75-48e0-bf3c-da0f1469904c","name":"Mediterranean Monk Seal","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787075695659,"checked":1787075695659}
 }}
