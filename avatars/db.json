@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":462,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":476,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","platforms":[],"added":1787029720687},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","platforms":[],"added":1787029814118},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","platforms":[],"added":1787029703322},
@@ -460,5 +460,19 @@
 "file_d185507f-0465-4eaa-a28c-965235176bae":{"id":"avtr_baf57418-7e4d-4eba-9501-860e91ba2763","name":"Harmony （Splatoon 3）","author":"SBee","authorId":"","platforms":[],"added":1787066385691,"checked":1787066385691},
 "file_f529c856-96fd-4242-b940-1f928f1fd31c":{"id":"avtr_483b8634-aa9e-4000-b73a-dced21b6d359","name":"Eshay Mayu（Tam）","author":"KonskyVr","authorId":"","platforms":[],"added":1787066387333,"checked":1787066387333},
 "file_9f2d70a4-4f51-4533-b577-d23712c53400":{"id":"avtr_d701cb56-e72b-4b40-b803-53c2829ac3bb","name":"Redbeard","author":"Ezekiel˖","authorId":"","platforms":[],"added":1787066351062,"checked":1787066351062},
-"file_22aef3de-a799-45e7-b8f5-a00de44222a9":{"id":"avtr_5d34dcbf-29c2-418e-952c-c4e2d614f00a","name":"aDanza Cat Black","author":"Ezekiel˖","authorId":"","platforms":[],"added":1787066366020,"checked":1787066366020}
+"file_22aef3de-a799-45e7-b8f5-a00de44222a9":{"id":"avtr_5d34dcbf-29c2-418e-952c-c4e2d614f00a","name":"aDanza Cat Black","author":"Ezekiel˖","authorId":"","platforms":[],"added":1787066366020,"checked":1787066366020},
+"file_6b7e6d67-456c-4585-8a83-e6b17468de7d":{"id":"avtr_9508edad-70f2-4ed4-b49e-e788a8a97282","name":"OhBabyILoveMoney （67 Cookie）","author":"darangd","authorId":"","platforms":[],"added":1787066764109,"checked":1787066764109},
+"file_35a64f8a-4a02-4621-a1cd-ca28f308ee83":{"id":"avtr_7935b5f8-66fb-4fb8-9e9c-c26a99f0d721","name":"Collin Border Collie Novabeast FT","author":"ASTRAL_S0DA","authorId":"","platforms":[],"added":1787066701391,"checked":1787066701391},
+"file_9b569823-6362-4817-95e8-2147d485bc7c":{"id":"avtr_f91dac42-ba12-4ee8-8b1e-7e8d85b91e2e","name":"Leopard 2A5","author":"LizzieGolden","authorId":"","platforms":[],"added":1787066429105,"checked":1787066429105},
+"file_483e4daf-26be-42f6-ae6c-9e012813d513":{"id":"avtr_4a5932f2-a7c8-42f9-a627-3014493d658b","name":"Tuxedo Jinxed Kitty","author":"kittybaps","authorId":"","platforms":[],"added":1787066770783,"checked":1787066770783},
+"file_999cfbbc-dafb-459a-b4cc-241bc06b142f":{"id":"avtr_71a0affb-11b2-4f06-95ba-028d5ddd7d40","name":"Warhammer 40‚000˸ Space Marine 2 - Ultramarine Redemptor Dreadnought","author":"SpecialistRoger","authorId":"","platforms":[],"added":1787066452471,"checked":1787066452471},
+"file_f75b6eff-646e-4388-b2db-e5011989c719":{"id":"avtr_406170d4-be13-40b0-8c87-e87caec48557","name":"fettywop","author":"Inevanable","authorId":"","platforms":[],"added":1787066457161,"checked":1787066457161},
+"file_d726a9f3-7f3f-4a9d-81c8-54bb92e7ac9f":{"id":"avtr_3f517028-9e83-41b7-bb9e-f9fa4473871d","name":"Fat Baby Dog","author":"Figgle - ACR","authorId":"","platforms":[],"added":1787066398190,"checked":1787066398190},
+"file_fdaa918c-2fdd-41c1-954d-1e7d6f2fa10b":{"id":"avtr_ff4dc495-0bef-4a27-af29-6cc8c6e41b7b","name":"delphy kobold （wip）","author":"get_spookd","authorId":"","platforms":[],"added":1787066421231,"checked":1787066421231},
+"file_c0c1311c-9f89-4586-9bdd-aac20953778d":{"id":"avtr_d38e02f9-02c7-4859-b791-c6b3d62d1367","name":"Hyenid Candy","author":"Guy Furry","authorId":"","platforms":[],"added":1787066455653,"checked":1787066455653},
+"file_6a08afbb-ccc5-4488-b8ca-dddec1125cc7":{"id":"avtr_2467f092-dd0e-4580-9410-c38697d4a0a4","name":"The Roaring Knight","author":"JestingMisfit","authorId":"","platforms":[],"added":1787066868455,"checked":1787066868455},
+"file_0419964a-5e1c-448a-b8d8-0a4f5e660a78":{"id":"avtr_68444b47-b776-42d2-94e1-1d23c2789faf","name":"Neegy","author":"Hasanloo","authorId":"","platforms":[],"added":1787066719159,"checked":1787066719159},
+"file_ddccdadb-0e97-4a0a-83d7-d5118abc4ad4":{"id":"avtr_7711541d-a974-4012-8fcf-7b3a47291b06","name":"Tung Tung Sahur （Rick and Morty）","author":"Craigthepc","authorId":"","platforms":[],"added":1787066411569,"checked":1787066411569},
+"file_8076b3d2-c93e-4165-b03e-342e2a2072bf":{"id":"avtr_d9b25db7-a62b-4919-8198-2f7164ec8fcf","name":"US Army ww2 Recruit （PUBLIC）","author":"ᴴᴬᵁᴺᵀᴱᴰ","authorId":"","platforms":[],"added":1787066810624,"checked":1787066810624},
+"file_df8f6786-3f6f-42da-9b58-bf6add159f26":{"id":"avtr_55f79fe3-77c9-4d2d-8ebe-e1f530d5ff9d","name":"Antigen˸ www․neochroma․xyz （Test Version）","author":"neochroma․xyz","authorId":"","platforms":[],"added":1787066454093,"checked":1787066454093}
 }}
