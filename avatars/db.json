@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1359,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1368,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1357,5 +1357,14 @@
 "file_f5521078-a567-42e9-9e58-0decb4a9d9e2":{"id":"avtr_cd6fac5a-60f8-4374-844b-483c22bb1ab7","name":"FLOWERY","author":"SirBubbinator","authorId":"","platforms":[],"added":1787091319113,"checked":1787091319113},
 "file_079cb9c9-7721-475e-ba3c-de6b9bdcb5e5":{"id":"avtr_14020f43-3d96-49ff-a472-23b95e91a444","name":"Raiden - Jack （Metal Gear Rising˸ Revengeance）","author":"webbtail245","authorId":"","platforms":[],"added":1787091563311,"checked":1787091563311},
 "file_132e6f62-cf80-4c5b-a0bd-363ea4cdb7f9":{"id":"avtr_bc7bbb39-4165-402d-b2dc-66c4faaa4a30","name":"Ultra Suprevillain Frieza","author":"ʟᴏʀᴅ ғʀɪᴇᴢᴀ","authorId":"","platforms":[],"added":1787091061012,"checked":1787091061012},
-"file_dc46cfd6-f19f-4bd2-9ec6-bc0ba2947ca2":{"id":"avtr_a6d0aaa8-1bbf-4101-aa22-7bae9c8890c1","name":"Customizable Lamenter","author":"COMBAT_DRAGON","authorId":"","platforms":[],"added":1787091314008,"checked":1787091314008}
+"file_dc46cfd6-f19f-4bd2-9ec6-bc0ba2947ca2":{"id":"avtr_a6d0aaa8-1bbf-4101-aa22-7bae9c8890c1","name":"Customizable Lamenter","author":"COMBAT_DRAGON","authorId":"","platforms":[],"added":1787091314008,"checked":1787091314008},
+"file_58bae379-5a20-4351-b5b2-736f7f0a44c3":{"id":"avtr_50797338-cab7-4b5b-b3df-b0db6123726d","name":"Leon Scott Kennedy （Resident Evil 4）","author":"webbtail245","authorId":"","platforms":[],"added":1787091647671,"checked":1787091647671},
+"file_1a004b17-249c-4b69-8e87-7c2989ef34d4":{"id":"avtr_efe03fc6-e4c1-4605-994a-dfc37c28d90b","name":"Chris Redfield - BSAA （Resident Evil 5 Lost In Nightmares）","author":"Nemesis_SKiLzZ","authorId":"","platforms":[],"added":1787091709745,"checked":1787091709745},
+"file_efa8b69f-d731-4918-b68c-ee898f54f682":{"id":"avtr_a562a602-3368-4836-bc86-2a1cf833131a","name":"Gato Maromba","author":"_Flin_","authorId":"","platforms":[],"added":1787091636152,"checked":1787091636152},
+"file_7389770b-72c6-41e0-bdfa-69faed50938f":{"id":"avtr_65e9462e-07ba-4692-b220-30e39cb06f31","name":"Ezio Auditore Da Firenze （Assassin's Creed Brotherhood）","author":"TheSamBlue","authorId":"","platforms":[],"added":1787091624354,"checked":1787091624354},
+"file_447dd960-2971-40b1-a15d-091bf59fb6b5":{"id":"avtr_14ba4880-2d30-4c97-8cf7-4ae6e16ce276","name":"NGF ｜Mastery Rifleman","author":"B-Reaper","authorId":"","platforms":[],"added":1787091928874,"checked":1787091928874},
+"file_ce9afa1d-38b6-4fb4-920d-f02fd41fb3ff":{"id":"avtr_df696b13-e46d-4edd-a948-fadeff7a17f6","name":"Jetstream Sam - Samuel Rodrigues （Metal Gear Rising˸ Revengeance）","author":"webbtail245","authorId":"","platforms":[],"added":1787091682078,"checked":1787091682078},
+"file_47659028-d581-4e70-8aa2-3b311a5e88c0":{"id":"avtr_a09a870e-cd8c-42f0-9c91-ce9d8e586ce6","name":"Ranger Diver","author":"TheExile","authorId":"","platforms":[],"added":1787092049231,"checked":1787092049231},
+"file_a02c58e4-0887-4dbf-8792-5c079dd43d9c":{"id":"avtr_c398769f-9bce-4127-b084-9124bd24d2c4","name":"April Hoppou ≺ ≻ ≺","author":"Kiearí","authorId":"","platforms":[],"added":1787091639000,"checked":1787091639000},
+"file_1197fa5c-ccb1-4261-8c97-4c0ce4a65565":{"id":"avtr_a48c39de-df8b-4119-b8f0-7ea5f08b291a","name":"Shiteyanyo シテヤンヨ【Leg Miku】","author":"TheBeepBeep","authorId":"","platforms":[],"added":1787091701478,"checked":1787091701478}
 }}
