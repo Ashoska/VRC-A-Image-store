@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1072,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1083,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1070,5 +1070,16 @@
 "file_241e44e4-67b5-4a93-9b4a-3c21d7eb2732":{"id":"avtr_fb85e6ce-49e3-423c-a7b8-1f6dc5e16a23","name":"Regnas - Optimized ＋ FT","author":"Zythoxic","authorId":"","platforms":[],"added":1787074040524,"checked":1787074040524},
 "file_ed09f4a7-d0af-4f05-90cb-d35292b1911a":{"id":"avtr_c4052426-24f4-4e1d-89b1-11905c926458","name":"emo lily cookie","author":"TameBeeZ","authorId":"","platforms":[],"added":1787074636024,"checked":1787074636024},
 "file_3dc4d18b-e394-42b3-bdb8-9512435967d8":{"id":"avtr_483ba3e7-9d01-4212-8b6e-eee8c96aaf0e","name":"Marmot","author":"Prez","authorId":"","platforms":[],"added":1787075425729,"checked":1787075425729},
-"file_1bba5476-5524-4507-b39b-085499ca2ab0":{"id":"avtr_3a8054ee-1c75-48e0-bf3c-da0f1469904c","name":"Mediterranean Monk Seal","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787075695659,"checked":1787075695659}
+"file_1bba5476-5524-4507-b39b-085499ca2ab0":{"id":"avtr_3a8054ee-1c75-48e0-bf3c-da0f1469904c","name":"Mediterranean Monk Seal","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787075695659,"checked":1787075695659},
+"file_dee6fdfb-1102-47dd-82e7-241207b4ea1a":{"id":"avtr_088e110b-08f3-4bca-ad30-a341d3375c74","name":"Evil Morty Story train","author":"Jimmy morgan","authorId":"","platforms":[],"added":1787076451096,"checked":1787076451096},
+"file_f03c8e87-6bd2-4c72-ac42-5d8dd5c5f8d2":{"id":"avtr_7af25ae5-fcbe-41d8-b1ae-315812a0d40a","name":"Teenage Boomer The Dino","author":"Dangleberry","authorId":"","platforms":[],"added":1787076312315,"checked":1787076312315},
+"file_86ffce6f-978b-48b6-badd-94244a46e7db":{"id":"avtr_15fc094e-cd28-434c-8beb-040010dc2fe1","name":"Geode Dova","author":"leaddy","authorId":"","platforms":[],"added":1787076545812,"checked":1787076545812},
+"file_de0a68bc-c262-4c2d-9d78-54f85409122a":{"id":"avtr_772cc9ed-81e9-483e-8f76-684d35efe0a6","name":"Diet ChibiGen","author":"Scotto210","authorId":"","platforms":[],"added":1787076412173,"checked":1787076412173},
+"file_4f99ab56-2a22-4f64-bfd1-3e7754f8c5dc":{"id":"avtr_59c4edfb-5fe1-465e-91a4-0b99dae49452","name":"Sea lion （Biped）","author":"-Parpar-","authorId":"","platforms":[],"added":1787076533342,"checked":1787076533342},
+"file_f48c324c-5d78-4bd1-b856-dc800b971bc9":{"id":"avtr_22d787fd-a9f7-49ec-99d3-4a15b5ce9f07","name":"BBW Lara Croft Swimsuit","author":"BaronOBeefDip3d","authorId":"","platforms":[],"added":1787076456775,"checked":1787076456775},
+"file_029180bc-18d2-4336-9654-25f17edcd76e":{"id":"avtr_4119097a-1dba-4b5f-b746-215489e1f980","name":"MiyaCat","author":"MiyakonoRei","authorId":"","platforms":[],"added":1787076434703,"checked":1787076434703},
+"file_23bbe715-6a49-462f-968a-c47b5761dd94":{"id":"avtr_04781c71-6684-4938-a7a6-48353d1bf7fa","name":"ccoogoo","author":"シーレ／crepix","authorId":"","platforms":[],"added":1787076460367,"checked":1787076460367},
+"file_4b5ab905-025f-4f7c-9f28-5ef4a1a14071":{"id":"avtr_783edb57-5234-4331-80c3-dec3b18007b5","name":"Swift","author":"ZeirTheFox01","authorId":"","platforms":[],"added":1787076428102,"checked":1787076428102},
+"file_f8667fb9-d9bc-4fcb-adce-f3e07def0994":{"id":"avtr_5484352b-2735-47c0-8c74-f2b69eca9ca9","name":"Metal Sonic the Hedgebeast","author":"Pepsimus","authorId":"","platforms":[],"added":1787076542797,"checked":1787076542797},
+"file_cf425f07-c2b6-4c5c-8ab8-0cfb6eb30e63":{"id":"avtr_5360dbab-9dc5-4bad-9539-ffdb12f6a3f8","name":"Charlie Jew","author":"Graduation Bear","authorId":"","platforms":[],"added":1787076517959,"checked":1787076517959}
 }}
