@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1244,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1248,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787073011830},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787073011830},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787073610570},
@@ -1242,5 +1242,9 @@
 "file_7f065317-f1ee-4f9e-b279-a66df8e5f24e":{"id":"avtr_9946c593-02d7-41e3-8abe-3c75f0403f08","name":"IF Neptunia 0.9","author":"♥ISIS","authorId":"usr_fa759324-f27e-4c9d-8db3-00660db3f54b","platforms":["PC"],"added":1787085812388,"checked":1787085812388},
 "file_e7b36f4e-f706-4e48-9b1b-bbee2980987a":{"id":"avtr_12bd4cb0-706d-41fb-be61-1b0a1ea6c249","name":"monkey nigga","author":"carl trenchcoat","authorId":"usr_b516a39b-8681-42f8-aa16-57916c5154af","platforms":["PC"],"added":1787085908875,"checked":1787085908875},
 "file_1b8d726c-ecd5-4c0c-b6f9-cd597973a72c":{"id":"avtr_4123c3a7-d7c0-400d-a92f-1894cb946704","name":"Big Nigga Craft","author":"「Emicho of Leiningen」","authorId":"usr_a3bcea4f-e772-446b-86fc-5b3386099e97","platforms":["PC"],"added":1787085898785,"checked":1787085898785},
-"file_33763dab-9e7d-4bd4-9ce7-f24a0891eb59":{"id":"avtr_5c2ee280-7d33-4211-b637-8d84b40a12d4","name":"Nigga Fish","author":"Yuh The Rap God","authorId":"usr_467dfea3-ea1e-4135-80f1-1bc177ce341c","platforms":["PC"],"added":1787085908110,"checked":1787085908110}
+"file_33763dab-9e7d-4bd4-9ce7-f24a0891eb59":{"id":"avtr_5c2ee280-7d33-4211-b637-8d84b40a12d4","name":"Nigga Fish","author":"Yuh The Rap God","authorId":"usr_467dfea3-ea1e-4135-80f1-1bc177ce341c","platforms":["PC"],"added":1787085908110,"checked":1787085908110},
+"file_f05bc04e-7f13-455b-8d35-86db2605b794":{"id":"avtr_8d7797a7-39a0-4779-bc06-ad5b10ae1974","name":"MaidWark","author":"Crouton645","authorId":"","platforms":[],"added":1787086414981,"checked":1787086414981},
+"file_b943674c-7c6a-4403-8074-a5cb1556333d":{"id":"avtr_eff84164-1b8a-483a-a347-527efb330caa","name":"Nero Industries Tactical Unit","author":"Đeadlock","authorId":"","platforms":[],"added":1787086315326,"checked":1787086315326},
+"file_0e209f6e-76fb-4ba0-8d28-f4e028175550":{"id":"avtr_8918ffa5-8fbf-4085-8868-eaa536020ec1","name":"Gnome Soldier","author":"ffgameryt","authorId":"","platforms":[],"added":1787086467216,"checked":1787086467216},
+"file_e81321f5-8cbe-4b76-a8cf-81d9d1d3dd9e":{"id":"avtr_db1eec93-9c17-4165-b72e-5238ea742ab6","name":"Nero Industries Medical Unit","author":"Đeadlock","authorId":"","platforms":[],"added":1787086387743,"checked":1787086387743}
 }}
