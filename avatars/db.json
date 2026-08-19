@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1506,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1513,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1504,5 +1504,12 @@
 "file_543fadb8-6f99-48ff-827b-22da3a356b71":{"id":"avtr_18b0040b-1615-456b-8740-c8290f5951c6","name":"LEGO DC Super Heroes","author":"ВООЅТ","authorId":"usr_06d66f00-0b40-434e-95cd-8cac5d36c7ff","platforms":["Quest","iOS","PC"],"added":1787106316899,"checked":1787106316899},
 "file_7b37711a-a310-4cda-8ee3-3c86190c5f10":{"id":"avtr_92dda2cf-9dc3-49eb-901d-2efc7c15b0f8","name":"Chris Hansen","author":"lil enchilada69","authorId":"usr_c3addb00-916d-4156-a303-89a0ce89bc2d","platforms":["Quest","iOS","PC"],"added":1787106323731,"checked":1787106323731},
 "file_05c1c033-4d9c-4368-a71c-2db10a1a6de0":{"id":"avtr_78164a81-3827-4e31-9276-e3f7cdfd88e0","name":"Lego Boba Fett","author":"Owen ˸）","authorId":"usr_7a3c0689-fe21-419e-b1c9-aa90cfd0a3d7","platforms":["Quest","PC","iOS"],"added":1787106326074,"checked":1787106326074},
-"file_e003b482-bf84-44d6-bebc-47fc6384012f":{"id":"avtr_d6561dc2-c8bc-49ef-b34a-ead680059834","name":"Wonderman Was Rejected","author":"Ezekiel˖","authorId":"usr_fe3880ee-4561-4860-acfb-84829d241121","platforms":["Quest","iOS","PC"],"added":1787106320332,"checked":1787106320332}
+"file_e003b482-bf84-44d6-bebc-47fc6384012f":{"id":"avtr_d6561dc2-c8bc-49ef-b34a-ead680059834","name":"Wonderman Was Rejected","author":"Ezekiel˖","authorId":"usr_fe3880ee-4561-4860-acfb-84829d241121","platforms":["Quest","iOS","PC"],"added":1787106320332,"checked":1787106320332},
+"file_2bfa1608-5963-4c72-9a27-30da6eb440df":{"id":"avtr_97d24805-2dae-4169-afce-83be6f92563b","name":"nym ୭","author":"enchans","authorId":"","platforms":[],"added":1787107719883,"checked":1787107719883},
+"file_38add3b8-3ca0-495a-8faf-a900387f13c0":{"id":"avtr_08e14dcf-b25b-4633-939e-984e07500f84","name":"Green - Rainbow Friends","author":"Atomic`","authorId":"","platforms":[],"added":1787107841858,"checked":1787107841858},
+"file_1220789e-71e4-4ff1-a5da-14218b0591db":{"id":"avtr_c01707f7-ecec-484a-8070-9d7e2172dffc","name":"Orange Crewmate","author":"jar2","authorId":"","platforms":[],"added":1787107423891,"checked":1787107423891},
+"file_55c1f053-ca4c-4232-8b49-3853eff986a0":{"id":"avtr_3c4494ea-9e01-4220-97f6-bfa5c530438c","name":"Spoidah","author":"Sluwu","authorId":"","platforms":[],"added":1787107282893,"checked":1787107282893},
+"file_869ed51b-f97a-4cea-ba89-34ca2599ff19":{"id":"avtr_33cac125-c6bc-49a4-a76a-1c661677cc3f","name":"smashing neck jiggle （beta support only）","author":"༒01Pickle༒","authorId":"","platforms":[],"added":1787107811715,"checked":1787107811715},
+"file_1dafcb2c-3633-4ff5-ad62-aebc88b18894":{"id":"avtr_5293c38a-ad20-4a52-a16a-c5254bd4588b","name":"Demon Lord Milim","author":"DevTDemon","authorId":"","platforms":[],"added":1787107259293,"checked":1787107259293},
+"file_6e5e484a-532b-4bcd-886d-4fb03fe8102e":{"id":"avtr_3efe5af0-9fff-489f-94ce-6c10e3457f0e","name":"KAYZ0ǃ","author":"Lycheeee","authorId":"","platforms":[],"added":1787107641058,"checked":1787107641058}
 }}
