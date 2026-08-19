@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1612,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1613,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1610,5 +1610,6 @@
 "file_ce49fb30-3736-41ab-9f96-0baa2be6aeb5":{"id":"avtr_81945b96-c0c6-4446-a2ce-a0725e1de781","name":"Fink V2","author":"Mortugues","authorId":"","platforms":[],"added":1787131593694,"checked":1787131593694},
 "file_917cb6b2-a506-4199-ad55-c0af8479ef07":{"id":"avtr_efb2f334-4c84-4cf6-bf4c-daecf0c3a1e9","name":"Booba Shark","author":"KugoGinjo","authorId":"","platforms":[],"added":1787131492600,"checked":1787131492600},
 "file_2421c9af-18c8-4876-968f-709356a52ea5":{"id":"avtr_af2b5c88-3cc7-49cc-9728-28e0db09bfc1","name":"Mr Yields","author":"ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723","authorId":"","platforms":[],"added":1787131811373,"checked":1787131811373},
-"file_5379c99e-0431-44a1-ab37-57d4798e30de":{"id":"avtr_beba7d16-1527-41f9-ab27-0bfa15a870c5","name":"BIG MAC Ronald","author":"Austin Bowers","authorId":"","platforms":[],"added":1787131398509,"checked":1787131398509}
+"file_5379c99e-0431-44a1-ab37-57d4798e30de":{"id":"avtr_beba7d16-1527-41f9-ab27-0bfa15a870c5","name":"BIG MAC Ronald","author":"Austin Bowers","authorId":"","platforms":[],"added":1787131398509,"checked":1787131398509},
+"file_a8bc6f16-8939-4c4b-b853-6ec637815507":{"id":"avtr_ccf57949-fa3f-4a80-8aee-add411cbd976","name":"ntf","author":"Mememan2121","authorId":"","platforms":[],"added":1787132169053,"checked":1787132169053}
 }}
