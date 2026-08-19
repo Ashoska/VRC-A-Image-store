@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1682,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1683,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1680,5 +1680,6 @@
 "file_65a72f6a-1501-4a72-9a5a-ea0a31f78eab":{"id":"avtr_6ea58f08-ff08-457c-934a-48cc2313b9ba","name":"Angel M","author":"ᵂᴴᴵᵀᴱ ᵀᴵᴳᴱᴿ","authorId":"","platforms":[],"added":1787175124161,"checked":1787175124161},
 "file_cfeeed73-ac16-4875-bbc7-8dff4ceee41e":{"id":"avtr_2f9cc7e7-36db-455a-9b96-ea917a53f38c","name":"Jurassic Park Velociraptor （Jp 1-3 ＋ Novels）","author":"QuandaIeDingIe","authorId":"","platforms":[],"added":1787175956151,"checked":1787175956151},
 "file_14615715-668e-46a4-b68c-315127987e02":{"id":"avtr_4f87abd3-76a8-4479-97e3-1112d3a363b6","name":"Agent Destroyer","author":"B-Reaper","authorId":"","platforms":[],"added":1787176841748,"checked":1787176841748},
-"file_29fe20f4-2330-4bf5-8e25-8635d72d1e1a":{"id":"avtr_5adee576-e4d2-4ccf-bd7e-6e314ee6e0a0","name":"Half Life Alyx Male Citizen｜ Cuakino","author":"Cuakino","authorId":"","platforms":[],"added":1787176257234,"checked":1787176257234}
+"file_29fe20f4-2330-4bf5-8e25-8635d72d1e1a":{"id":"avtr_5adee576-e4d2-4ccf-bd7e-6e314ee6e0a0","name":"Half Life Alyx Male Citizen｜ Cuakino","author":"Cuakino","authorId":"","platforms":[],"added":1787176257234,"checked":1787176257234},
+"file_0728d6ef-6355-4579-a4c8-6eca2a1470f8":{"id":"avtr_4306be22-37a9-4ded-8e84-520dee6510c9","name":"Buck Tyrannosaurus Rex","author":"QuandaIeDingIe","authorId":"","platforms":[],"added":1787176980015,"checked":1787176980015}
 }}
