@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1603,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1608,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1601,5 +1601,10 @@
 "file_b0cc2a4b-6544-4660-b528-995cfb1b808c":{"id":"avtr_3191a365-b345-4555-a4da-defeebc56726","name":"Jumpy_Simplified","author":"_神灯_","authorId":"","platforms":[],"added":1787126644688,"checked":1787126644688},
 "file_58212f8d-017b-480b-ab32-1dea7cc174e7":{"id":"avtr_39a15401-3d7b-4b71-b19c-43e9ad4a32b6","name":"Rensuke Kunigami","author":"Jοse","authorId":"","platforms":[],"added":1787127861076,"checked":1787127861076},
 "file_d0e225a5-e153-4938-b90e-50e32aac1197":{"id":"avtr_1bc915c0-5158-42f3-a3b6-c70f1fe6d21d","name":"protodrone （quest compatable）","author":"sneckyfox vr","authorId":"","platforms":[],"added":1787129414340,"checked":1787129414340},
-"file_c6095a2a-a367-47f0-b2db-0fdbebeeafe9":{"id":"avtr_15ca2714-89ff-49a4-aac1-9d375f183249","name":"DYSELZ quest compatable","author":"sneckyfox vr","authorId":"","platforms":[],"added":1787130025812,"checked":1787130025812}
+"file_c6095a2a-a367-47f0-b2db-0fdbebeeafe9":{"id":"avtr_15ca2714-89ff-49a4-aac1-9d375f183249","name":"DYSELZ quest compatable","author":"sneckyfox vr","authorId":"","platforms":[],"added":1787130025812,"checked":1787130025812},
+"file_29f146c4-7581-453a-bfae-74d0414a504e":{"id":"avtr_e0fa57fe-fffb-4375-b990-92cf0a36dd0e","name":"Derpy's Mantled Beast","author":"DeviantDerpy","authorId":"usr_81db2d11-5b2b-468b-a6d7-1231526ecebc","platforms":["PC","Quest","iOS"],"added":1787130736842,"checked":1787130736842},
+"file_37e53257-f8c5-435e-9141-4986a2da08c2":{"id":"avtr_37baa8b5-13a5-4992-b87b-a5c68fa8f626","name":"shrill 2․0","author":"ᴛɪᴠɪ","authorId":"usr_d2243d0c-661d-4ee2-98ea-1de36372a4aa","platforms":["PC","Quest","iOS"],"added":1787130733465,"checked":1787130733465},
+"file_df8f11c5-5e7d-41b0-b5a0-e193fb83edef":{"id":"avtr_6b7b84d5-9fef-476e-8070-9b9d8f2e6844","name":"Shrill‚ the PhonoDroid","author":"ᴛɪᴠɪ","authorId":"usr_d2243d0c-661d-4ee2-98ea-1de36372a4aa","platforms":["PC","Quest","iOS"],"added":1787130736145,"checked":1787130736145},
+"file_20bf8ace-2b40-4cda-99e1-10210dd2fd53":{"id":"avtr_9ee06496-f403-4162-8964-23b10fa8907d","name":"FurDU Space Roo","author":"Ash Darkfire","authorId":"usr_78da5074-e02e-420b-b49c-a4f4e527a0fb","platforms":["PC","Quest","iOS"],"added":1787130734271,"checked":1787130734271},
+"file_b67269b2-86fa-4a7b-af75-8679d7949000":{"id":"avtr_b775632d-7878-4f01-b402-ea4f175d8615","name":"Puro Proto","author":"Δέλτα","authorId":"usr_7752b8a4-4c55-40e3-95f6-6bf209b469ea","platforms":["PC","Quest","iOS"],"added":1787130735105,"checked":1787130735105}
 }}
