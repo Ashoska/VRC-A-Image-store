@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1559,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1563,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1557,5 +1557,9 @@
 "file_459b27db-bada-4795-9826-25c4efab3cfc":{"id":"avtr_591d4224-7e94-427c-ba2c-f1605e5c2710","name":"Sheen Estevez HD","author":"TravisTouchdown","authorId":"","platforms":[],"added":1787113679967,"checked":1787113679967},
 "file_f1431906-58e0-4343-881f-ccd888536015":{"id":"avtr_5fc7329f-c304-4681-93e7-ba1c47fd7f2c","name":"Mahito","author":"thecat1ym","authorId":"","platforms":[],"added":1787114399968,"checked":1787114399968},
 "file_13074123-1030-4a5c-8f82-d471bcf57c84":{"id":"avtr_a691dd8a-8510-478c-a0bd-6fe9fb0d1a8a","name":"BandanaGirl","author":"PsychoUpdates","authorId":"","platforms":[],"added":1787114143849,"checked":1787114143849},
-"file_519100d5-58cb-4952-b64b-ad3f43449916":{"id":"avtr_c7a2ef77-4deb-403f-b35c-451b551824ad","name":"Karelia the Smiler","author":"CaptainJoosh","authorId":"","platforms":[],"added":1787114134883,"checked":1787114134883}
+"file_519100d5-58cb-4952-b64b-ad3f43449916":{"id":"avtr_c7a2ef77-4deb-403f-b35c-451b551824ad","name":"Karelia the Smiler","author":"CaptainJoosh","authorId":"","platforms":[],"added":1787114134883,"checked":1787114134883},
+"file_da6dd2c9-9357-47fc-934e-c234200e7b29":{"id":"avtr_1cea802b-b4e1-4794-8021-61ce1ed298c4","name":"Leopard Seal （VR handpuppet）","author":"Unagio Lucio","authorId":"","platforms":[],"added":1787114693612,"checked":1787114693612},
+"file_74e561d4-85b9-4865-9789-c1f447deb4a7":{"id":"avtr_3b206b82-913f-4ac0-90ea-d10e3acbd9bd","name":"Fat Knuckles","author":"PoptartKnux","authorId":"","platforms":[],"added":1787114721800,"checked":1787114721800},
+"file_cfe2bec9-f1ce-4de8-9665-eab8c674ad1e":{"id":"avtr_1274efc4-5372-47b8-bf14-0d0a48c25300","name":"Froggy Taxi","author":"Studious_Gluteus","authorId":"","platforms":[],"added":1787114640262,"checked":1787114640262},
+"file_9966916f-17aa-475f-8004-0891a5a3565f":{"id":"avtr_021934c7-ec54-4170-96b1-fb4585c8926c","name":"MicroPCS Spider Knuckles","author":"MicroPCS","authorId":"","platforms":[],"added":1787114814443,"checked":1787114814443}
 }}
