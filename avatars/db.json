@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1636,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1650,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1634,5 +1634,19 @@
 "file_d6dbb488-50a1-4e61-ad18-7511ffe0de04":{"id":"avtr_e443e854-7666-4ff1-99c2-878a39e9a8df","name":"Swatch˸ Prismatic","author":"SirBubbinator","authorId":"","platforms":[],"added":1787151189749,"checked":1787151189749},
 "file_3b67e860-6e89-4196-af32-2fe55a90f830":{"id":"avtr_99609130-cc63-4e3c-9a35-2c52ee047f68","name":"Wallace ＆ Gromit in The Grand Getaway - Gromit","author":"GeorgiaHayHay","authorId":"","platforms":[],"added":1787151051835,"checked":1787151051835},
 "file_1d95335b-ebab-4ee3-af46-3039a195e902":{"id":"avtr_f2746271-2d77-487d-b684-a619f32e282a","name":"Reign","author":"ᴋᴏʀɴ","authorId":"","platforms":[],"added":1787151324812,"checked":1787151324812},
-"file_3fc8fedf-5a57-4fa1-98f2-f4faa453920b":{"id":"avtr_4fcc1464-800e-4a7f-963b-c90c5a0f59df","name":"Short Dragonfish","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787151545782,"checked":1787151545782}
+"file_3fc8fedf-5a57-4fa1-98f2-f4faa453920b":{"id":"avtr_4fcc1464-800e-4a7f-963b-c90c5a0f59df","name":"Short Dragonfish","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787151545782,"checked":1787151545782},
+"file_e0351c50-ea1e-47d2-a170-470ca9e90b07":{"id":"avtr_dd31c0d9-2aa7-4b44-9434-2d5559620907","name":"dumber","author":"Bury me","authorId":"","platforms":[],"added":1787151909136,"checked":1787151909136},
+"file_a36dd503-4701-4f03-b484-3c83de6554d7":{"id":"avtr_fdfea4eb-4344-4e12-90e2-3497f391be60","name":"Edgar","author":"YemmieGoat","authorId":"","platforms":[],"added":1787151967259,"checked":1787151967259},
+"file_55b209e7-38ab-48aa-873a-85ea2bd8ff44":{"id":"avtr_33c96c5b-8ed1-45af-8d2e-40f4d420ff13","name":"Nyara By Ren","author":"˖ R ˖","authorId":"","platforms":[],"added":1787151744829,"checked":1787151744829},
+"file_605e99e4-aadd-42b8-ab2b-225b1260f444":{"id":"avtr_d831e413-69f3-4e7f-ab6e-03a231fa5459","name":"Vinriel","author":"Kumе","authorId":"","platforms":[],"added":1787151759043,"checked":1787151759043},
+"file_bd54db2d-7b11-4187-8a2b-7a269bc4c4c5":{"id":"avtr_4babe578-d88f-42b1-8e4b-0341a1fbd76b","name":"Flesh Prison ＆ Flesh Panopticon","author":"~The Architect~","authorId":"","platforms":[],"added":1787151950337,"checked":1787151950337},
+"file_2db54ae6-83e5-4715-b6ad-001eabe6a651":{"id":"avtr_3d47c8f5-a1bf-47db-965d-17f1c79f475b","name":"Melody ǃǃ","author":"ραωince","authorId":"","platforms":[],"added":1787151742714,"checked":1787151742714},
+"file_667b72ad-05c6-4c4a-abfe-3cb08fee6509":{"id":"avtr_145a6ec9-d13a-4fa2-8ce7-3cdd8e27241b","name":"Greenbean","author":"Falling Rain","authorId":"","platforms":[],"added":1787151740674,"checked":1787151740674},
+"file_86dab857-5c72-4d5b-9d84-c7fb25d3aadb":{"id":"avtr_c928dbeb-eded-4f42-99f1-7fb5a2932a1e","name":"Twisted Razzle and Dazzle","author":"~ Tizumi ~","authorId":"","platforms":[],"added":1787151821444,"checked":1787151821444},
+"file_445514f2-ae05-4c4d-bc8b-49026ac33a05":{"id":"avtr_e191c181-7500-4c1e-b3f1-c758854f67ad","name":"GOHEEZ V2","author":"ᴊᴜsʜʏ","authorId":"","platforms":[],"added":1787151835533,"checked":1787151835533},
+"file_754b7310-65f9-4d08-827d-2967da804d52":{"id":"avtr_0b713621-7b7a-428a-87ac-0a00d8506e06","name":"BIG DICK RANDY","author":"StormSmasher","authorId":"","platforms":[],"added":1787151747377,"checked":1787151747377},
+"file_1d5b1068-7075-42f3-8892-e45544e7b96a":{"id":"avtr_d8fee121-6cc5-4648-9a88-5f8c7e1dd607","name":"Peter Griffin （Fortnite）","author":"RHETTRO_RINGO","authorId":"","platforms":[],"added":1787151694535,"checked":1787151694535},
+"file_0ceec5a9-971b-4d87-acda-a4242775faad":{"id":"avtr_f24a6133-fe68-45dd-b09f-b27539cfd050","name":"raaam","author":"Zintor","authorId":"","platforms":[],"added":1787151789570,"checked":1787151789570},
+"file_8a1864e7-e505-4a16-aa27-2ac2a7500c68":{"id":"avtr_7540410c-9631-47e7-bb69-58c8ffa16c59","name":"Senhor de idade","author":"_Flin_","authorId":"","platforms":[],"added":1787151800404,"checked":1787151800404},
+"file_055b75f2-edbd-4b1f-b06f-4f41462f117a":{"id":"avtr_e9540ace-6419-4b9e-9dd7-d38a20af8a72","name":"Kiyara","author":"~ʏᴀʀᴜ~","authorId":"","platforms":[],"added":1787151775560,"checked":1787151775560}
 }}
