@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1533,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1544,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1531,5 +1531,16 @@
 "file_b7b5f71f-562c-4729-8ecf-58c20d0c47a9":{"id":"avtr_79808bbf-2706-47bc-b29a-c6c57b04718d","name":"Tripod （Jeff wayne）","author":"rednes1988","authorId":"","platforms":[],"added":1787108754670,"checked":1787108754670},
 "file_36a8f5ad-0677-416e-b245-9aa4fff03f45":{"id":"avtr_495a1d1f-f9ee-4b4b-ac5e-4c829ca81ce3","name":"Mharti （Rick and Morty）","author":"Craigthepc","authorId":"","platforms":[],"added":1787108582025,"checked":1787108582025},
 "file_9d2f0bb4-d81d-48f3-96a4-90427c4ff9db":{"id":"avtr_409e25ac-f3f9-4a6d-a72c-33ce6a7f6822","name":"LSPD SWAT Officer","author":"Ripcord292","authorId":"","platforms":[],"added":1787108672683,"checked":1787108672683},
-"file_fda0cef3-7251-419c-9e3f-d6f9eb1a1ec5":{"id":"avtr_bb2e4e32-16c1-4df2-a78c-30977d13bf07","name":"Traffic Cone Kowalski","author":"EGirlRᴇᴘᴇʟʟᴇɴᴛ","authorId":"","platforms":[],"added":1787108625317,"checked":1787108625317}
+"file_fda0cef3-7251-419c-9e3f-d6f9eb1a1ec5":{"id":"avtr_bb2e4e32-16c1-4df2-a78c-30977d13bf07","name":"Traffic Cone Kowalski","author":"EGirlRᴇᴘᴇʟʟᴇɴᴛ","authorId":"","platforms":[],"added":1787108625317,"checked":1787108625317},
+"file_9d282fe4-78a9-473b-ae9c-5ddcea8313f4":{"id":"avtr_b8d59851-319a-49aa-ae42-3c9b0d82f599","name":"Louisiana Crawfish","author":"Deap_Blu_Scea","authorId":"","platforms":[],"added":1787109232383,"checked":1787109232383},
+"file_e22d0052-27d6-4ff1-90dc-9adddd7dc509":{"id":"avtr_0216e29e-1e96-492a-8213-193c130fe28a","name":"ChemmySoulless","author":"La BarbieGirl","authorId":"","platforms":[],"added":1787109371171,"checked":1787109371171},
+"file_aef58042-9335-4452-9ebd-108ecb4ded95":{"id":"avtr_e4ec9e41-c1dd-4b1f-9f25-274fc0112735","name":"deeroid","author":"Teh_Bucket","authorId":"","platforms":[],"added":1787109352843,"checked":1787109352843},
+"file_dbd6215f-207b-498b-ab08-39bfe760c22c":{"id":"avtr_c8eef14e-9f6f-4ff9-bf22-e21d9183631d","name":"Desktop Mate - Kasane Teto SV","author":"phonyflowers","authorId":"","platforms":[],"added":1787109194371,"checked":1787109194371},
+"file_b5ae7f3d-5e9b-4304-921d-6cfbe8335b0b":{"id":"avtr_df7eb2b7-ba17-41a5-88ff-9738ea283f94","name":"Humanoid Grumble （Roblox Doors Floor 2）","author":"PandemoniumPng","authorId":"","platforms":[],"added":1787109469345,"checked":1787109469345},
+"file_e010d5e4-8aa5-412e-b28f-655f6ebb4ec6":{"id":"avtr_dd1325cc-2b87-43c6-8839-e500793e077a","name":"Pigeon","author":"max84444","authorId":"","platforms":[],"added":1787109336515,"checked":1787109336515},
+"file_b06830f8-60e7-43af-866b-e60586cee1a0":{"id":"avtr_0ccba3f4-d468-48e0-9b87-54ac1543866b","name":"Iron Man MK 7 （Marvel Rivals）","author":"JT IRON","authorId":"","platforms":[],"added":1787109605613,"checked":1787109605613},
+"file_c8acd574-615c-48e1-ac5b-3acaded0c864":{"id":"avtr_07d2afae-7378-4996-971b-5ea365e9be66","name":"Twerking Amogus","author":"Widget365","authorId":"","platforms":[],"added":1787109249029,"checked":1787109249029},
+"file_4bc5d55e-a15d-48fe-8fa2-52133840a6c3":{"id":"avtr_f4b61442-5c58-488d-a676-5ac81c1b82ed","name":"ǃǃ Bi-Sexual Loona ǃǃ","author":"GummyEntity","authorId":"","platforms":[],"added":1787109342974,"checked":1787109342974},
+"file_cfc8293e-1500-4ad5-9a52-40cf32750752":{"id":"avtr_ac3ddc50-8b21-4c58-a82f-a6dac22521f3","name":"Shika （Public） by Shylukha","author":"shylukha","authorId":"","platforms":[],"added":1787109344532,"checked":1787109344532},
+"file_97e51546-2a5b-4cdf-9c86-f78ba8b10ece":{"id":"avtr_09184d11-742f-4c9c-9c1e-d32a32283a52","name":"Deer Man","author":"BloodMutt","authorId":"","platforms":[],"added":1787109333059,"checked":1787109333059}
 }}
