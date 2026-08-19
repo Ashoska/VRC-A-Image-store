@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1690,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1698,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1688,5 +1688,13 @@
 "file_b30fad6b-b6c0-40d0-9087-8b3450000769":{"id":"avtr_b421fa92-f17e-4a8e-8a30-bf4fde4ec9c9","name":"Turi","author":"HeavenlyY2K","authorId":"","platforms":[],"added":1787179758031,"checked":1787179758031},
 "file_4847a6d1-ac22-4181-a3b8-dd1955bb226c":{"id":"avtr_7571e06a-aac0-4b62-8ecc-702ec7a83b0a","name":"Caroline - Stomach Book（Public Test Build）","author":"Katten?","authorId":"","platforms":[],"added":1787179771797,"checked":1787179771797},
 "file_56a596a5-2cfd-4a9b-a5e3-d41b8d57ed99":{"id":"avtr_93453db9-c1c3-42d0-ac45-db5ae3ffa343","name":"Dr․ Ivo ＂Eggman＂ Robotnik","author":"Mylie_T_TM","authorId":"","platforms":[],"added":1787179747184,"checked":1787179747184},
-"file_fe4c8070-e33b-4fde-8e5b-19e662dbdda8":{"id":"avtr_61a73f9c-d689-47c8-b1db-76c48bea91dc","name":"閉futaba桜","author":"ʀɪɴɴɪᴇ","authorId":"","platforms":[],"added":1787179842306,"checked":1787179842306}
+"file_fe4c8070-e33b-4fde-8e5b-19e662dbdda8":{"id":"avtr_61a73f9c-d689-47c8-b1db-76c48bea91dc","name":"閉futaba桜","author":"ʀɪɴɴɪᴇ","authorId":"","platforms":[],"added":1787179842306,"checked":1787179842306},
+"file_68ed5c07-1147-4c31-814e-0d90c81f82c0":{"id":"avtr_af792f0f-26ab-4ee0-a186-c902f5700b51","name":"Meave ǃ","author":"Makus_l","authorId":"","platforms":[],"added":1787180381454,"checked":1787180381454},
+"file_179c8fb2-83c6-462a-aef0-a152de32f96e":{"id":"avtr_7b0a17b2-2f10-48b2-b052-6956a1518a90","name":"komano yn edit ft","author":"Tonka--","authorId":"","platforms":[],"added":1787180153736,"checked":1787180153736},
+"file_08402714-b6c4-4a4d-8416-464348ce25fe":{"id":"avtr_0e342234-546f-4149-bb40-6b51d8902f1d","name":"Auralis Novabeast","author":"Shadow_Dark1","authorId":"","platforms":[],"added":1787179979560,"checked":1787179979560},
+"file_8cc774ac-9b2d-4325-8997-99efcc2a798c":{"id":"avtr_84d03330-c37e-4cdc-9848-d464dfc3aba2","name":"KingMonke","author":"King Monke","authorId":"","platforms":[],"added":1787180405706,"checked":1787180405706},
+"file_7d226b27-fe18-46c8-8cda-6951524af148":{"id":"avtr_cf517c6b-8d37-481e-8832-dfc3d69aaced","name":"REP˸ （Ignis） Elysian Trooper","author":"LieutenantCorvo","authorId":"","platforms":[],"added":1787179978033,"checked":1787179978033},
+"file_caf09c5e-546b-48a9-9276-1eff18e43066":{"id":"avtr_8ee537c9-1142-4cad-8b74-84dde9df7c82","name":"Just a guy in a hoodie","author":"pusheenosaurus","authorId":"","platforms":[],"added":1787180073377,"checked":1787180073377},
+"file_d46efe17-c25b-4ddb-8245-e13a04d0d54e":{"id":"avtr_9dec2b7a-c8e6-4ba1-b734-4bd274f672d4","name":"＂ Syris ＂ by Kaiylast","author":"kaiуlast","authorId":"","platforms":[],"added":1787180074868,"checked":1787180074868},
+"file_e0fa6d9b-7814-43e8-b108-d5d7b11190f9":{"id":"avtr_f97cbd78-69fd-4657-ba23-02d4f4326b30","name":"RDM RDM RDM","author":"ᴬᴵᴹᴮᴼᵀ","authorId":"","platforms":[],"added":1787180070679,"checked":1787180070679}
 }}
