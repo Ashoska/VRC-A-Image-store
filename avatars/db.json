@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1677,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1678,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1675,5 +1675,6 @@
 "file_47c75c48-36cf-4ef6-968a-0cd5403adca9":{"id":"avtr_697c5e58-31b2-457e-bbea-616854915c93","name":"Yuji Itadori （Shinjuku Showdown","author":"Praty","authorId":"","platforms":[],"added":1787173242462,"checked":1787173242462},
 "file_aa187cd9-4850-4873-bb27-fc7e26036a5b":{"id":"avtr_011cf1a0-d530-4dc4-98b8-a71b1e7f37c2","name":"ఌ Wolfe ఌ - personal tacc Nardo","author":"ఌ Wolfe ఌ","authorId":"","platforms":[],"added":1787173025255,"checked":1787173025255},
 "file_1f9ab648-a596-4026-99cb-9ad117d7c0de":{"id":"avtr_a2e1598b-08a4-44f2-8146-4278412fe8c2","name":"Mewtwo X （ZA）","author":"-MetalMischief-","authorId":"","platforms":[],"added":1787172953431,"checked":1787172953431},
-"file_dd0d68ec-074d-4026-8a74-dadbc2276490":{"id":"avtr_590f7b49-6f2f-4568-81af-d5aded1d601d","name":"Crona my goat ≺3","author":"CRONA ღ","authorId":"","platforms":[],"added":1787173213115,"checked":1787173213115}
+"file_dd0d68ec-074d-4026-8a74-dadbc2276490":{"id":"avtr_590f7b49-6f2f-4568-81af-d5aded1d601d","name":"Crona my goat ≺3","author":"CRONA ღ","authorId":"","platforms":[],"added":1787173213115,"checked":1787173213115},
+"file_78805337-61d8-4cf9-afc0-e104d355be5e":{"id":"avtr_8c23c6f6-f7b7-4a41-81ec-cbc67be5e1a6","name":"Logan by Weeeby","author":"Weeeby","authorId":"","platforms":[],"added":1787173831106,"checked":1787173831106}
 }}
