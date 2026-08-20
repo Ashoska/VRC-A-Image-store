@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1816,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1817,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1814,5 +1814,6 @@
 "file_89da9f88-2beb-4a8a-bdb5-4a71809deb05":{"id":"avtr_2189cdc2-0095-4a52-8c15-2e7afd152551","name":"Crumb","author":"Oerlikon Blave","authorId":"","platforms":[],"added":1787206731734,"checked":1787206731734},
 "file_b1a48b3d-765b-4963-a3db-b029d4db5482":{"id":"avtr_2e58d217-94b0-48d8-b60c-e83279b002b1","name":"Kyzer","author":"yHolo","authorId":"","platforms":[],"added":1787207480998,"checked":1787207480998},
 "file_d4ac5780-29b5-4409-91bc-7d4603a97962":{"id":"avtr_f4362454-a820-4a5a-b978-8d4a041ff2bd","name":"Walter H White","author":"Dexter Ｍorgаn","authorId":"","platforms":[],"added":1787209601663,"checked":1787209601663},
-"file_0c7533a1-fc16-4db8-a6f6-a9d57175d9c8":{"id":"avtr_b2b56e62-5d15-4bc4-8b35-d0749550d630","name":"Emo AAAH Novabeast","author":"Datfex","authorId":"","platforms":[],"added":1787210061671,"checked":1787210061671}
+"file_0c7533a1-fc16-4db8-a6f6-a9d57175d9c8":{"id":"avtr_b2b56e62-5d15-4bc4-8b35-d0749550d630","name":"Emo AAAH Novabeast","author":"Datfex","authorId":"","platforms":[],"added":1787210061671,"checked":1787210061671},
+"file_fbbfad52-da1d-4c1a-8ad9-0878875d5135":{"id":"avtr_d5110d1e-c315-4245-b8e2-aa82fa9855c1","name":"Sun⁄Moon Novabeast","author":"Zemb","authorId":"","platforms":[],"added":1787211939550,"checked":1787211939550}
 }}
