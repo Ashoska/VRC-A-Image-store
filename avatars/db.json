@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1852,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1877,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1850,5 +1850,30 @@
 "file_56b56505-e81b-4f6b-8ddf-fe9f84c67b53":{"id":"avtr_7e527399-062b-4f8f-9e3e-eac863010b76","name":"Owlcat","author":"- Lumine -","authorId":"","platforms":[],"added":1787214576555,"checked":1787214576555},
 "file_a0cfdfab-d3f3-43a7-8f02-d4b960f68a54":{"id":"avtr_1ecb8481-dbb2-4549-a367-c2b1fbd58aa9","name":"COBSON","author":"StormSmasher","authorId":"","platforms":[],"added":1787214640224,"checked":1787214640224},
 "file_4bee4f5b-d4ae-457d-acef-6666deac6d02":{"id":"avtr_8079c287-147e-42ee-9751-52c9181e9bcd","name":"オリジナル タフィー","author":"東雪蓮Official","authorId":"","platforms":[],"added":1787214177558,"checked":1787214177558},
-"file_45b1f185-ca45-4e62-97f9-f2fa2c1e38e2":{"id":"avtr_5e141822-004a-4dae-be8a-5ea70dbb43fa","name":"DOPE CAT","author":"Swibby","authorId":"","platforms":[],"added":1787214158522,"checked":1787214158522}
+"file_45b1f185-ca45-4e62-97f9-f2fa2c1e38e2":{"id":"avtr_5e141822-004a-4dae-be8a-5ea70dbb43fa","name":"DOPE CAT","author":"Swibby","authorId":"","platforms":[],"added":1787214158522,"checked":1787214158522},
+"file_c2f65728-a025-47a8-9ded-73b4e41baba1":{"id":"avtr_11ccb65f-721d-4107-bb74-43650f385a92","name":"plu bapper rex","author":"Xorbi","authorId":"","platforms":[],"added":1787214993909,"checked":1787214993909},
+"file_1a15dd2d-c6d4-47a7-a52d-d3f676b282da":{"id":"avtr_e61314ab-f396-4bbd-a992-5da9ccdfddda","name":"Hiver Soldier Drone","author":"Cran․Barry","authorId":"","platforms":[],"added":1787214700453,"checked":1787214700453},
+"file_bc9a6561-35fe-4275-bb9f-cf8951008335":{"id":"avtr_e11777e0-f3d6-4bb6-94f5-94ab0a2c50df","name":"viltrumite Gogeta","author":"Slush-_-","authorId":"","platforms":[],"added":1787214963621,"checked":1787214963621},
+"file_fe23466f-ebaf-4734-8ed1-20323609f835":{"id":"avtr_86f80073-bfe3-4dc7-893e-0b2f7092745d","name":"meowミ jamin","author":"Meowjamin","authorId":"","platforms":[],"added":1787214827891,"checked":1787214827891},
+"file_4c0d400c-354c-4161-a80f-8c998e1891ab":{"id":"avtr_898c7e39-2149-4a8a-9dc4-5e8dbeef8f00","name":"Kurami - EclipseArtStudio","author":"ChokkoSan","authorId":"","platforms":[],"added":1787214956543,"checked":1787214956543},
+"file_51059600-61bc-4884-b269-9f5f4ee9023f":{"id":"avtr_b59f1820-e7ad-43cc-a1ed-14e866f99219","name":"Perfectest Cell V2","author":"MyPastaCold","authorId":"","platforms":[],"added":1787215056364,"checked":1787215056364},
+"file_b5584873-f557-4bda-873f-802cab9de416":{"id":"avtr_5324ccd4-3e41-4827-bef8-bb62bc794e0d","name":"bulka","author":"MagnaLuna³","authorId":"","platforms":[],"added":1787215054288,"checked":1787215054288},
+"file_307e3827-db86-4b31-ba5e-c8290d3ee93d":{"id":"avtr_e773ee7f-b9fa-41a5-86e2-3db05ff46003","name":"The Advanced Sonic Avatar","author":"TheElectrical01","authorId":"","platforms":[],"added":1787215026363,"checked":1787215026363},
+"file_175f6cc6-7184-4efa-bf9d-ad5e6bb9b5ff":{"id":"avtr_527ad303-2f00-494f-9136-4f219d165e53","name":"相生ゆうこ","author":"hirο","authorId":"","platforms":[],"added":1787215019932,"checked":1787215019932},
+"file_566666a2-2e80-4b01-aaef-4fdabfa0ddab":{"id":"avtr_5a0e1a6c-81f2-48b0-bd09-d8b28fd9efa9","name":"george droid","author":"user_282479","authorId":"","platforms":[],"added":1787215028186,"checked":1787215028186},
+"file_76fd855e-461d-4216-9b44-bae5f77c0881":{"id":"avtr_28efb8ba-e2bd-4fa4-b43a-5a9d6cd2d4e7","name":"Neegy","author":"༒All For One༒","authorId":"","platforms":[],"added":1787214694908,"checked":1787214694908},
+"file_7220addd-ccb8-4255-ba23-b5bb5f69740a":{"id":"avtr_10cdec87-d577-4105-a70b-31f061d088b0","name":"Toji （Naoya's flashback）","author":"~Mail Jeevas~","authorId":"","platforms":[],"added":1787215205029,"checked":1787215205029},
+"file_172ac185-ca9c-431e-bd27-15180d7be47d":{"id":"avtr_4a9e2717-e006-4123-b626-d12202f607f9","name":"rat big","author":"Swilze","authorId":"","platforms":[],"added":1787214952176,"checked":1787214952176},
+"file_9d23a96c-d70e-4d31-bf73-38a562708552":{"id":"avtr_6f92d81f-a1b3-4311-806d-1c32cca92151","name":"Russle","author":"֍༼ˎᵕVustleXᵕˎ༽֍","authorId":"","platforms":[],"added":1787214924477,"checked":1787214924477},
+"file_bd02f7d3-a8ef-44b0-ab36-a95d63162d3c":{"id":"avtr_d390e924-1b4d-4ca7-89ef-76d71287d9ab","name":"Orange Cat Mayu","author":"Lewis ！","authorId":"","platforms":[],"added":1787214707349,"checked":1787214707349},
+"file_33112647-588b-47d0-9c75-48c7447a03d8":{"id":"avtr_6d814c48-9329-49c0-9bca-051efc2fe43b","name":"Phoenix Connexion- CSGO","author":"mDoL","authorId":"","platforms":[],"added":1787215172169,"checked":1787215172169},
+"file_1cd0cf2f-f563-44d0-a286-811e64ce1399":{"id":"avtr_709c657b-7ab7-49ea-8de7-b23281102ac1","name":"Neco-Arc Chaos","author":"Meмe","authorId":"","platforms":[],"added":1787215087785,"checked":1787215087785},
+"file_6f5c0ccd-4736-4be3-a653-0dbff9d3dc63":{"id":"avtr_a2e44ce2-e890-478c-bca5-6f786475786a","name":"RED JIT","author":"¿Z0LCANA?","authorId":"","platforms":[],"added":1787215120712,"checked":1787215120712},
+"file_8cdca0b2-73ee-4699-88f5-d6dd074bd95c":{"id":"avtr_044ff3df-baed-440c-bd91-5844ebb14790","name":"SweaterEBoy","author":"PsychoUpdates","authorId":"","platforms":[],"added":1787214754023,"checked":1787214754023},
+"file_5052cfa2-f008-4ba7-81b7-b3f147134c26":{"id":"avtr_b4da0875-cdfd-442c-aab8-d2f70169f747","name":"CottonForb","author":"Juice․․․","authorId":"","platforms":[],"added":1787214702463,"checked":1787214702463},
+"file_a24aecc9-0083-4933-871a-915e065b91b8":{"id":"avtr_617b37fb-7e0f-4de1-a562-8bf07a4aa30f","name":"Mid Z Goku","author":"ᴘᴀʀᴋᴇʀᴛᴡɪɴ14","authorId":"","platforms":[],"added":1787214731980,"checked":1787214731980},
+"file_5317a7d6-c76f-4287-91f0-19af54d86d48":{"id":"avtr_b5ffd659-5de0-4ad2-9bfb-edfcbb65e7db","name":"PLURRǃǃ⁄ariǃǃ","author":"vendreadhead","authorId":"","platforms":[],"added":1787215046680,"checked":1787215046680},
+"file_6b6ecdcb-efc9-4bed-a76d-491e2209702d":{"id":"avtr_5d3b12ed-010f-4da2-a973-b0270916670b","name":"Eric Cartman","author":"btabray","authorId":"","platforms":[],"added":1787215221704,"checked":1787215221704},
+"file_05e966e7-7347-4a7a-b09c-39875ea238d1":{"id":"avtr_c33dbbff-d57f-4698-af8f-72611a40a9ba","name":"Arthur Ford （BONEWORKS）","author":"webbtail245","authorId":"","platforms":[],"added":1787214825002,"checked":1787214825002},
+"file_82faae71-7570-44ca-a442-11ecb3af7ad8":{"id":"avtr_f6c9bb7c-2076-4e90-bb80-8cc23e4e3936","name":"Glow Adoptable Mayu Face Tracking VRCFT - femnem （furry）","author":"VantaVR","authorId":"","platforms":[],"added":1787214690824,"checked":1787214690824}
 }}
