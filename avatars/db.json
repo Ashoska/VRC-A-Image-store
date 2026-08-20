@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":1743,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":1745,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -1741,5 +1741,7 @@
 "file_e3ce7aef-91fd-45fd-b8e8-d950744e5333":{"id":"avtr_ae35ea7f-5ef8-4bf9-ad99-54569fc6711e","name":"Rimuru Xiao","author":"GeoArchon","authorId":"","platforms":[],"added":1787190602627,"checked":1787190602627},
 "file_44ac3f7c-fc91-47c7-97ec-968b2410b5ce":{"id":"avtr_facec11f-2a81-4a4f-9851-a0effe8b468e","name":"Blonde Chibi","author":"Harmful Comboss","authorId":"","platforms":[],"added":1787191088087,"checked":1787191088087},
 "file_f0668e37-581c-41d3-8813-d3f0d84ada99":{"id":"avtr_fd1181f9-7704-4759-a4a9-a3a279012a82","name":"Goobastera Fluffy Shark","author":"Dօzer","authorId":"","platforms":[],"added":1787190869332,"checked":1787190869332},
-"file_8a88da19-13ab-4b81-b30d-99551b012a10":{"id":"avtr_31a28db2-ab9d-4789-bd56-2d850d33404e","name":"Rainbow Soda Fidget Nova","author":"Anzai~Inferno","authorId":"","platforms":[],"added":1787194217454,"checked":1787194217454}
+"file_8a88da19-13ab-4b81-b30d-99551b012a10":{"id":"avtr_31a28db2-ab9d-4789-bd56-2d850d33404e","name":"Rainbow Soda Fidget Nova","author":"Anzai~Inferno","authorId":"","platforms":[],"added":1787194217454,"checked":1787194217454},
+"file_176003bd-8c5d-4832-b5d0-b90ced39f716":{"id":"avtr_2e21673d-f500-4248-9a6e-b921bb00c98a","name":"Kiriko TimeKeeper","author":"iisfire","authorId":"","platforms":[],"added":1787194521842,"checked":1787194521842},
+"file_315d0d52-4f89-471c-9dee-6fbd193c27ce":{"id":"avtr_be12b600-f5b6-489a-aa25-abb5cbfd2fa1","name":"Seth Tan","author":"kiutie","authorId":"","platforms":[],"added":1787194791917,"checked":1787194791917}
 }}
