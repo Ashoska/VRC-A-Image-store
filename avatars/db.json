@@ -1,4 +1,4 @@
-{"name":"VRC-A Avatar Store","version":1,"count":2253,"avatars":{
+{"name":"VRC-A Avatar Store","version":1,"count":2279,"avatars":{
 "file_4159e32d-a92c-4f15-9001-57e0c7b5cfd0":{"id":"avtr_cd3591fc-0fab-4690-b1ea-49bbd14376c3","name":"Cambee PLUSǃ","author":"cammie ！！！","authorId":"usr_e7d0c4e6-3847-4b2b-b050-63ebbb963ddc","platforms":["Quest","PC","iOS"],"added":1787068571986,"checked":1787103012125},
 "file_bf35fc7a-125f-468c-b13d-c8fad17bf7d3":{"id":"avtr_0b0a81f3-d3f5-4c06-8f02-473d7d111bfe","name":"Kit gameoverse","author":"yumily","authorId":"usr_f6bc2a7e-1e2a-4f2d-92b5-928593508e83","platforms":["Quest","PC","iOS"],"added":1787070471068,"checked":1787103613496},
 "file_35a10c5c-4f99-4e39-ac43-692ac29e3242":{"id":"avtr_2b833e01-9c00-48c5-89cf-e9d83c34df58","name":"Sophie Rain","author":"ĐɆ₳ϯｻx̸z̸","authorId":"usr_163db27d-6d26-410f-ba74-6d6dec772347","platforms":["PC","Quest"],"added":1787068635175,"checked":1787104250223},
@@ -2251,5 +2251,31 @@
 "file_e5120e14-0c71-440f-99ba-62f2cec55f05":{"id":"avtr_89ec17dd-6a12-4a61-ac37-6bd70585061f","name":"LPoly Emori Basil v2","author":"StrangerNiko","authorId":"","platforms":[],"added":1787222444023,"checked":1787222444023},
 "file_f48a3d6f-0348-481b-ad81-6098a52bc7fa":{"id":"avtr_b10394bc-5996-4ddc-84da-796f0e2f4695","name":"Streettown Zip","author":"oofhead1234","authorId":"","platforms":[],"added":1787222140270,"checked":1787222140270},
 "file_9b627b72-0b95-4984-922b-82b1b78529e5":{"id":"avtr_dc2ad004-d7ff-467c-9152-def6328b020e","name":"Yurr","author":"JustJоn","authorId":"","platforms":[],"added":1787222273941,"checked":1787222273941},
-"file_84415857-f3ec-4d83-a2be-80be7ccaa61e":{"id":"avtr_e19c6ced-d113-4401-82ae-c505e9840918","name":"Aspen Nova","author":"Furious_Furry","authorId":"","platforms":[],"added":1787222104521,"checked":1787222104521}
+"file_84415857-f3ec-4d83-a2be-80be7ccaa61e":{"id":"avtr_e19c6ced-d113-4401-82ae-c505e9840918","name":"Aspen Nova","author":"Furious_Furry","authorId":"","platforms":[],"added":1787222104521,"checked":1787222104521},
+"file_8eca1185-5254-4810-96d8-a34ea4810390":{"id":"avtr_59b87b80-78f7-4506-a706-5f4c1f8f3139","name":"Shinku","author":"Shad0owW","authorId":"","platforms":[],"added":1787222843063,"checked":1787222843063},
+"file_7c345620-3457-41f5-bb80-ff5cdecbce2c":{"id":"avtr_75aa9217-ae0b-4b79-bb11-60598cc4f94d","name":"please big boobs","author":"shussy","authorId":"","platforms":[],"added":1787222682067,"checked":1787222682067},
+"file_7e65b6e4-a9af-4e5c-b021-4a42b8b8f9ae":{"id":"avtr_65aa62da-707a-4e21-bf72-c2f76a9be827","name":"thomas wip","author":"~Joeyy~","authorId":"","platforms":[],"added":1787222972055,"checked":1787222972055},
+"file_d2391303-7617-47e2-ad3b-0ff9a26e5b9b":{"id":"avtr_75a681f3-28ba-4ff1-9c66-7de9c57d414d","name":"Golden Boi","author":"~SynthBear~","authorId":"","platforms":[],"added":1787223011172,"checked":1787223011172},
+"file_67bead29-d515-49e2-9378-0efa8b527e47":{"id":"avtr_76525c1a-36f2-425d-9f95-655f994a74c3","name":"Autumn Blossom","author":"ShinyBismuth","authorId":"","platforms":[],"added":1787222454811,"checked":1787222454811},
+"file_709d3652-a7ba-4b5c-9119-bbb082a17ee3":{"id":"avtr_ad8fab04-370a-4259-9ac8-145012613c35","name":"donut cat","author":"-JUGGIE-","authorId":"","platforms":[],"added":1787222656837,"checked":1787222656837},
+"file_23f42035-9123-4769-adbe-c1607f59a4a2":{"id":"avtr_832bdcae-56bf-40d1-b6b9-efb6054c1faf","name":"Skywarp⁄Novastorm","author":"Starkstruck","authorId":"","platforms":[],"added":1787222887296,"checked":1787222887296},
+"file_41ebf450-8473-42c1-ad19-63810bf7619f":{"id":"avtr_9ce52f5c-3e82-4721-b34e-980eb82b5aa0","name":"Sheldon J․ Plankton","author":"Paangwin","authorId":"","platforms":[],"added":1787222716417,"checked":1787222716417},
+"file_e5d3ab46-1384-4814-86ce-f8117c0e6f9f":{"id":"avtr_e10a5e7c-400a-47cc-8b1b-822588e9b242","name":"eepy phys","author":"~9Phelo9~","authorId":"","platforms":[],"added":1787222804204,"checked":1787222804204},
+"file_b81d9aa6-5249-4bea-be0e-9498673ff3c3":{"id":"avtr_ee25c80e-ba99-4b3c-9846-20ff50dca5b9","name":"Roxas Heartless Onesie","author":"-WildCat-","authorId":"","platforms":[],"added":1787222750743,"checked":1787222750743},
+"file_bdc9632b-66ad-4270-9b49-9c62e9ca2c34":{"id":"avtr_6e3ce49b-abdd-46d7-a2d1-e1174b820a9a","name":"egirl Alien （Toy Story）","author":"Minty_Cats","authorId":"","platforms":[],"added":1787222622669,"checked":1787222622669},
+"file_8873b0ba-224b-4847-884f-eb6df6620ec9":{"id":"avtr_da40d73d-8f97-4b19-a06f-95cc786baffd","name":"SillyDeer","author":"Gabpc28","authorId":"","platforms":[],"added":1787222755807,"checked":1787222755807},
+"file_ace0a55f-73c3-4376-b4e6-8b543937986a":{"id":"avtr_e79dd9db-8a7d-459b-8133-1874f2b229a2","name":"Onyx Public","author":"∗ beanie ∗","authorId":"","platforms":[],"added":1787222507768,"checked":1787222507768},
+"file_94231471-9060-46d8-8b76-b7ef43433196":{"id":"avtr_eb5de17e-c94e-433a-b689-f6d541a0df87","name":"Mini Thomas （TTTE）","author":"-Parpar-","authorId":"","platforms":[],"added":1787222957565,"checked":1787222957565},
+"file_7b9cca52-1c7b-4ae6-8e82-ed29345a7f21":{"id":"avtr_2433defd-0e78-49a9-ace0-8c9948cd51db","name":"Nanodevi_Sherbet_Sample","author":"Terai寺井","authorId":"","platforms":[],"added":1787222667371,"checked":1787222667371},
+"file_b32b2a63-1718-40b0-89c4-e4726358ba6b":{"id":"avtr_4c8bfdfc-ce13-4c10-9f06-795e46c25154","name":"timothy the ghost engine","author":"thigopingo","authorId":"","platforms":[],"added":1787222704605,"checked":1787222704605},
+"file_677a9f4f-f014-4695-8a45-556b77ad8134":{"id":"avtr_8f14e4b3-7a26-45b0-9f31-00c828e93aa4","name":"EPals","author":"epals","authorId":"","platforms":[],"added":1787222617882,"checked":1787222617882},
+"file_608b50c5-1880-4016-9da1-26607dd0a4a3":{"id":"avtr_d9a9a208-fe24-472f-982d-def2373a123e","name":"Thomas （Thomas Minis）","author":"_ºGenaroº_","authorId":"","platforms":[],"added":1787222936268,"checked":1787222936268},
+"file_8d9a7c9f-2503-4a56-b77d-0f1fc0675efd":{"id":"avtr_b9bc1e04-5ca8-4558-8e11-557db033a29d","name":"小仓鼠","author":"是肉丸喔","authorId":"","platforms":[],"added":1787222619504,"checked":1787222619504},
+"file_88ca265f-fe1c-461e-9470-168bf3be5cbb":{"id":"avtr_a4ea301f-46e2-4c98-8365-635d806bb710","name":"Omni Cat","author":"Litе","authorId":"","platforms":[],"added":1787222627633,"checked":1787222627633},
+"file_10b2db69-37ad-43e0-a1d6-a701b8f7fc86":{"id":"avtr_a7d1d2c2-390f-4e15-b762-4a4437afebfe","name":"SIMON SMOKE","author":"FREDDY~CHASEY","authorId":"","platforms":[],"added":1787222955410,"checked":1787222955410},
+"file_a0db6d59-86e1-4361-bfe9-e9c2a36f2fab":{"id":"avtr_debd5b49-e9d2-4b8c-a78c-6b211ff6734c","name":"Sheldon J․ Plankton V2","author":"8bitdark","authorId":"","platforms":[],"added":1787222722519,"checked":1787222722519},
+"file_e4dd3ac0-6c19-40d8-ab8a-10230228604e":{"id":"avtr_e6dce4ff-4736-4783-970c-27a5ee9e2297","name":"BloodMoon Sun","author":"恨强MrButter情人","authorId":"","platforms":[],"added":1787222624224,"checked":1787222624224},
+"file_3f516a8f-529f-49f7-b340-086eca7299ce":{"id":"avtr_fb4202a0-cb1c-4294-be15-ce1a8d8993ff","name":"Idol Zhongli","author":"Rinko_Matsuri","authorId":"","platforms":[],"added":1787222621009,"checked":1787222621009},
+"file_d3af2d04-390d-42b3-ba8f-709c6bd936a5":{"id":"avtr_47e961c1-093d-4ab1-b929-ed8f6458b977","name":"Mashiro - Mashed Banana","author":"x77 ִ","authorId":"","platforms":[],"added":1787222728246,"checked":1787222728246},
+"file_755b9dfc-ccaf-4c06-9bd2-35b3cdcb592c":{"id":"avtr_8382762e-76ec-4e80-bc06-d2930ed6d4ab","name":"Renee FT","author":"oxkamii","authorId":"","platforms":[],"added":1787222450779,"checked":1787222450779}
 }}
