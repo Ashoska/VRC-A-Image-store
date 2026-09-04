@@ -1,0 +1,232 @@
+📦 app/src
+ │
+ ├── 📁 main
+ │   ├── 📁 kotlin/com/vrca
+ │   │   ├── 📁 admin/
+ │   │   │   ├── 📄 AccountModeration.kt
+ │   │   │   ├── 📄 AdminRuntime.kt
+ │   │   │   ├── 📄 AdminScreen.kt
+ │   │   │   ├── 📄 AdminUiKit.kt
+ │   │   │   ├── 📄 AdminViewModel.kt
+ │   │   │   ├── 📄 AnnouncementsTab.kt
+ │   │   │   ├── 📄 AuthTransferCoordinator.kt
+ │   │   │   ├── 📄 AvatarCatalogSweep.kt
+ │   │   │   ├── 📄 BotController.kt
+ │   │   │   ├── 📄 BotVrchatSession.kt
+ │   │   │   ├── 📄 BotsTab.kt
+ │   │   │   ├── 📄 ConfigTab.kt
+ │   │   │   ├── 📄 DashboardTab.kt
+ │   │   │   ├── 📄 ModLogTab.kt
+ │   │   │   ├── 📄 ModerationTab.kt
+ │   │   │   ├── 📄 ReleasesTab.kt
+ │   │   │   ├── 📄 RichDocEditor.kt
+ │   │   │   ├── 📄 UsersDirectoryCache.kt
+ │   │   │   ├── 📄 UsersTab.kt
+ │   │   │   └── 📄 VrchatImageLoader.kt
+ │   │   │
+ │   │   ├── 📁 app/
+ │   │   │   ├── 📄 AppShutdown.kt
+ │   │   │   ├── 📄 ChatboxStats.kt
+ │   │   │   ├── 📄 FeatureSessionStore.kt
+ │   │   │   ├── 📄 ForegroundUtil.kt
+ │   │   │   ├── 📄 MainActivity.kt
+ │   │   │   ├── 📄 SubLineCodec.kt
+ │   │   │   ├── 📄 VrcaApp.kt
+ │   │   │   ├── 📄 VrcaApplication.kt
+ │   │   │   └── 📄 WeatherProvider.kt
+ │   │   │
+ │   │   ├── 📁 data/
+ │   │   │   ├── 📄 DataStoreExt.kt
+ │   │   │   ├── 📄 SettingsStates.kt
+ │   │   │   ├── 📄 StatesAddon.kt
+ │   │   │   └── 📄 UserPreferencesRepository.kt
+ │   │   │
+ │   │   ├── 📁 discord/
+ │   │   │   ├── 📄 DeviceShutdownReceiver.kt
+ │   │   │   ├── 📄 DiscordLoginWebView.kt
+ │   │   │   └── 📄 DiscordRpcService.kt
+ │   │   │
+ │   │   ├── 📁 keepalive/
+ │   │   │   ├── 📄 KeepAliveService.kt
+ │   │   │   └── 📄 PipelineWatchdogWorker.kt
+ │   │   │
+ │   │   ├── 📁 nowplaying/
+ │   │   │   ├── 📄 ChatboxCalibration.kt
+ │   │   │   ├── 📄 ITunesDurationLookup.kt
+ │   │   │   ├── 📄 NowPlayingListenerService.kt
+ │   │   │   ├── 📄 NowPlayingState.kt
+ │   │   │   └── 📄 TitleCleaner.kt
+ │   │   │
+ │   │   ├── 📁 osc/
+ │   │   │   ├── 📄 VrcaOsc.kt
+ │   │   │   ├── 📄 VrcaOscQuery.kt
+ │   │   │   ├── 📄 VrcaOscReceiver.kt
+ │   │   │   └── 📄 VrcaOscState.kt
+ │   │   │
+ │   │   ├── 📁 overlay/
+ │   │   │   ├── 📄 MyLifecycleOwner.kt
+ │   │   │   ├── 📄 OverlayDaemon.kt
+ │   │   │   ├── 📄 OverlayService.kt
+ │   │   │   │
+ │   │   │   └── 📁 ui/
+ │   │   │       ├── 📄 ButtonOverlay.kt
+ │   │   │       ├── 📄 MessengerConversation.kt
+ │   │   │       ├── 📄 MessengerMessageField.kt
+ │   │   │       └── 📄 MessengerOverlay.kt
+ │   │   │
+ │   │   ├── 📁 richcontent/
+ │   │   │   ├── 📄 InlineMarkup.kt
+ │   │   │   ├── 📄 RichDoc.kt
+ │   │   │   ├── 📄 RichDocRenderer.kt
+ │   │   │   ├── 📄 RichMediaStore.kt
+ │   │   │   └── 📄 WhatsNewStore.kt
+ │   │   │
+ │   │   ├── 📁 spotify/
+ │   │   │   ├── 📄 SpotifyAuthManager.kt
+ │   │   │   └── 📄 SpotifyRedirectActivity.kt
+ │   │   │
+ │   │   ├── 📁 sync/
+ │   │   │   ├── 📄 AdminBrowsingState.kt
+ │   │   │   └── 📄 AdminWatchState.kt
+ │   │   │
+ │   │   ├── 📁 ui/
+ │   │   │   ├── 📁 common/
+ │   │   │   │   ├── 📄 AnnouncementSeenState.kt
+ │   │   │   │   ├── 📄 CommonUi.kt
+ │   │   │   │   ├── 📄 OemPowerGuidance.kt
+ │   │   │   │   ├── 📄 PublicUiKit.kt
+ │   │   │   │   ├── 📄 SetFullscreen.kt
+ │   │   │   │   ├── 📄 TimeZones.kt
+ │   │   │   │   ├── 📄 VrcaAppBar.kt
+ │   │   │   │   └── 📄 VrcaDialogs.kt
+ │   │   │   │
+ │   │   │   ├── 📁 conversation/
+ │   │   │   │   ├── 📄 Conversation.kt
+ │   │   │   │   ├── 📄 ConversationUiState.kt
+ │   │   │   │   ├── 📄 IpField.kt
+ │   │   │   │   ├── 📄 MainScreen.kt
+ │   │   │   │   ├── 📄 MessageField.kt
+ │   │   │   │   └── 📄 MessageOption.kt
+ │   │   │   │
+ │   │   │   ├── 📁 onboarding/
+ │   │   │   │   ├── 📄 OnboardingFlow.kt
+ │   │   │   │   └── 📄 TutorialImageStore.kt
+ │   │   │   │
+ │   │   │   ├── 📁 screen/
+ │   │   │   │   ├── 📄 AutomationsPage.kt
+ │   │   │   │   ├── 📄 HomePage.kt
+ │   │   │   │   ├── 📄 InstanceRosterPanel.kt
+ │   │   │   │   ├── 📄 NowPlayingPage.kt
+ │   │   │   │   ├── 📄 VrcaScreen.kt
+ │   │   │   │   ├── 📄 VrcaSettingsPage.kt
+ │   │   │   │   └── 📄 VrchatPage.kt
+ │   │   │   │
+ │   │   │   ├── 📁 settings/
+ │   │   │   │   ├── 📄 AboutScreen.kt
+ │   │   │   │   ├── 📄 DependenciesScreen.kt
+ │   │   │   │   ├── 📄 LegacyPagesAndSettingsPage.kt
+ │   │   │   │   ├── 📄 NotificationToggles.kt
+ │   │   │   │   └── 📄 SettingsScreen.kt
+ │   │   │   │
+ │   │   │   ├── 📁 theme/
+ │   │   │   │   ├── 📄 Color.kt
+ │   │   │   │   ├── 📄 Theme.kt
+ │   │   │   │   └── 📄 Type.kt
+ │   │   │   │
+ │   │   │   └── 📁 viewmodel/
+ │   │   │       └── 📄 VrcaViewModel.kt
+ │   │   │
+ │   │   ├── 📁 update/
+ │   │   │   └── 📄 InAppUpdate.kt
+ │   │   │
+ │   │   └── 📁 vrchat/
+ │   │       ├── 📄 AlertImageStore.kt
+ │   │       ├── 📄 AuthTransferCrypto.kt
+ │   │       ├── 📄 AvatarGlobalDb.kt
+ │   │       ├── 📄 AvatarSearch.kt
+ │   │       ├── 📄 BootReceiver.kt
+ │   │       ├── 📄 EventReminderScheduler.kt
+ │   │       ├── 📄 EventSeriesStore.kt
+ │   │       ├── 📄 FriendsCacheStore.kt
+ │   │       ├── 📄 GroupAlertEnricher.kt
+ │   │       ├── 📄 InAppAlertState.kt
+ │   │       ├── 📄 InstanceHistoryStore.kt
+ │   │       ├── 📄 InstanceRosterManager.kt
+ │   │       ├── 📄 NotificationActionReceiver.kt
+ │   │       ├── 📄 SelfInviteCoordinator.kt
+ │   │       ├── 📄 SelfInviteStore.kt
+ │   │       ├── 📄 VrcLogParser.kt
+ │   │       ├── 📄 VrchatAuthManager.kt
+ │   │       ├── 📄 VrchatBanChecker.kt
+ │   │       ├── 📄 VrchatLoginScreen.kt
+ │   │       ├── 📄 VrchatNotificationPrefs.kt
+ │   │       ├── 📄 VrchatPipelineService.kt
+ │   │       └── 📄 VrchatUptime.kt
+ │   │
+ │   └── 📁 res/
+ │       ├── 📁 drawable/
+ │       │   ├── 📄 github_mark.xml
+ │       │   ├── 📄 ic_discord.xml
+ │       │   ├── 📄 ic_notif_sync.xml
+ │       │   ├── 📄 ic_notification.xml
+ │       │   ├── 📄 ic_platform_apple.xml
+ │       │   ├── 📄 ic_platform_windows.xml
+ │       │   └── 📄 indicator.xml
+ │       │
+ │       ├── 📁 drawable-nodpi/
+ │       │   └── 📄 vrca_logo.png
+ │       │
+ │       ├── 📁 mipmap-hdpi/
+ │       │   └── 📄 ic_launcher.png
+ │       │
+ │       ├── 📁 mipmap-mdpi/
+ │       │   └── 📄 ic_launcher.png
+ │       │
+ │       ├── 📁 mipmap-xhdpi/
+ │       │   └── 📄 ic_launcher.png
+ │       │
+ │       ├── 📁 mipmap-xxhdpi/
+ │       │   └── 📄 ic_launcher.png
+ │       │
+ │       ├── 📁 mipmap-xxxhdpi/
+ │       │   └── 📄 ic_launcher.png
+ │       │
+ │       ├── 📁 values/
+ │       │   ├── 📄 colors.xml
+ │       │   ├── 📄 strings.xml
+ │       │   └── 📄 themes.xml
+ │       │
+ │       ├── 📁 values-zh-rCN/
+ │       │   └── 📄 strings.xml
+ │       │
+ │       ├── 📁 values-zh-rHK/
+ │       │   └── 📄 strings.xml
+ │       │
+ │       ├── 📁 values-zh-rTW/
+ │       │   └── 📄 strings.xml
+ │       │
+ │       └── 📁 xml/
+ │           ├── 📄 backup_rules.xml
+ │           ├── 📄 data_extraction_rules.xml
+ │           └── 📄 file_provider_paths.xml
+ │
+ │   └── 📄 AndroidManifest.xml
+ │
+ ├── 📁 androidTest/
+ │   └── 📁 kotlin/com/vrca/
+ │       └── 📄 ExampleInstrumentedTest.kt
+ │
+ ├── 📁 test/
+ │   └── 📁 kotlin/com/vrca/
+ │
+ ├── 📁 headsetApp/
+ │   ├── 📄 google-services.json
+ │   └── 📄 AndroidManifest.xml
+ │
+ ├── 📁 adminApp/
+ │   ├── 📄 google-services.json
+ │   └── 📄 AndroidManifest.xml
+ │
+ └── 📁 publicApp/
+     ├── 📄 google-services.json
+     └── 📄 AndroidManifest.xml
