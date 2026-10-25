@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "images": {
+    "discord/default": {
+      "path": "images/discord/default.jpg",
+      "sha256": "73c43b0025b6c0a99d995eb6ab22aa367f1ce8424b935444a420fa0bf980b533",
+      "bytes": 19381
+    },
+    "tos/bugs_reports": {
+      "path": "images/tos/bugs_reports.png",
+      "sha256": "3a979f6d1dce44f78aaa192d8193bdd0342a02a479b780b343cbd7bb1b336c2f",
+      "bytes": 73388
+    },
+    "tos/login_centre": {
+      "path": "images/tos/login_centre.png",
+      "sha256": "70af9de7e6cf6cf6eb126f106998c53e5b198c9582e1dafe3aeff56c34836a9c",
+      "bytes": 84566
+    },
+    "tos/platform_rules": {
+      "path": "images/tos/platform_rules.png",
+      "sha256": "d4321eb7326cc964a37af6dad40c74d90e7b0b50636603bc94cb1375d1e186a1",
+      "bytes": 53721
+    },
+    "tutorial/1": {
+      "path": "images/tutorial/1.png",
+      "sha256": "132d28f85e253517016f9b44429fdc7e00d5c8cb94d255c83bad0faccf93759a",
+      "bytes": 161151
+    },
+    "tutorial/2": {
+      "path": "images/tutorial/2.png",
+      "sha256": "c35ccf0eb720805460c8e7e8652cb5e5a97585b97e9b06de92bd564ee9be0daa",
+      "bytes": 171487
+    },
+    "tutorial/3": {
+      "path": "images/tutorial/3.png",
+      "sha256": "8818c63bb43eb61b53fbd48235a0bb3604ced55e662386b1f65967d08305b7e5",
+      "bytes": 150208
+    },
+    "tutorial/4": {
+      "path": "images/tutorial/4.png",
+      "sha256": "8920e9727180369869a5d60ae0a730abc742c7f3ade560047144f160e7df4f91",
+      "bytes": 149399
+    }
+  }
+}
