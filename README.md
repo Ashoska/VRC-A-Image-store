@@ -10,6 +10,7 @@ Public files the VRC-A app downloads at run time, so they aren't bundled in the 
 | `manifest.json` | Every picture's key, path, SHA-256 and size. **The app reads this.** | The `Rebuild manifest` Action (don't edit by hand) |
 | `tools/build_manifest.py` | Builds `manifest.json` from `images/`. | |
 | `avatars/db.json` | The avatar catalog backup. | The avatar catalog bots (don't touch) |
+| `brand/vrca-logo.png` | The VRC-A logo artwork (source, not loaded by the app). | People |
 | `osc_tutorial_1..4.png`, `vrchat-1102x620.jpg` (root) | Old paths, still loaded by app versions from before the manifest. Delete once nobody runs those versions. | |
 
 Groups the app uses today:
