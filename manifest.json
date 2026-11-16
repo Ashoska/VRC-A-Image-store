@@ -13,13 +13,13 @@
     },
     "perm/battery": {
       "path": "images/perm/battery.webp",
-      "sha256": "d46f83355da08b78dbfe07fee25703cecc574d037af5b0ad184c916856d7a45c",
-      "bytes": 16254
+      "sha256": "8391651219afab6a8cfe5f80af5e7afadf57d9724c8264707e7c090c1d47e6c0",
+      "bytes": 14110
     },
     "perm/files": {
       "path": "images/perm/files.webp",
-      "sha256": "618a3ce2b1c7edf8838a21eae1edfdb7191ca89758682920d9d3a21c3c5e8a77",
-      "bytes": 48306
+      "sha256": "4b8ecc53b14bde00f3d276ba48ba7a3830671183455ff9e400b2d17eb114d747",
+      "bytes": 47638
     },
     "perm/install": {
       "path": "images/perm/install.webp",
