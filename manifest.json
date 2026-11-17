@@ -51,6 +51,11 @@
       "sha256": "a006770f1edc44a09fd53103f2e16d25ed3806078d6207fa4bb6a97482070d7b",
       "bytes": 83954
     },
+    "perm/vrchatfiles": {
+      "path": "images/perm/vrchatfiles.webp",
+      "sha256": "07475ba1371d618a6a12855c0ff52805bb29675567bee1d708f025413c9a60fa",
+      "bytes": 85816
+    },
     "tos/bugs_reports": {
       "path": "images/tos/bugs_reports.png",
       "sha256": "3a979f6d1dce44f78aaa192d8193bdd0342a02a479b780b343cbd7bb1b336c2f",
